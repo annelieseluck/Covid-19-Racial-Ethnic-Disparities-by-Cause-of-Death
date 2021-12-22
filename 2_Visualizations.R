@@ -16,8 +16,8 @@ library(ggpubr)
 
 # load data
 ## Cause of death data
-ASDR <- read.csv("Tables/NEWTABLE_ASDR.csv") %>% select(-c("X"))
-decomposition <- read.csv("Tables/Decomposition_unformatted.csv") %>% select(-c("X"))
+ASDR <- read.csv("Clean Data/ASDR_unformatted.csv") %>% select(-c("X")) %>% subset(Race.Ethnicity!="All" & Race.Ethnicity!="Non-Hispanic Asian" & Race.Ethnicity!="Non-Hispanic American Indian or Alaska Native")
+decomposition <- read.csv("Clean Data/Decomposition_unformatted.csv") %>% select(-c("X"))
 
 #-----------------------------------------------------------------------------------------------------------------
 # FIGURE 1

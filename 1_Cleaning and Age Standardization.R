@@ -94,7 +94,7 @@ sum(distr_65plus$prop_65plus)
 
 ## compile age distributions for varying standardization groups
 distributions <- merge(distr_25plus, distr_25_64, by=c("AgeGroup"), all.x=T)
-distributions <- merge(distribs, distr_65plus, by=c("AgeGroup"), all.x=T)
+distributions <- merge(distributions, distr_65plus, by=c("AgeGroup"), all.x=T)
 distributions
 
 #-----------------------------------------------------------------------------------------------------------------
@@ -220,6 +220,7 @@ ASDR_merged <- ASDR_clean %>% select(-c(deaths, pop)) %>% distinct() %>%
                            ifelse(AgeGroup == "ASDR_25_64", "25-64", "65+"))) %>% 
   subset(Race.Ethnicity != "Non-Hispanic American Indian or Alaska Native" &Race.Ethnicity != "Non-Hispanic Asian") # subset to race.ethnicity = All, white, black, and hispanic
 
+write.csv(ASDR_merged, "Clean Data/ASDR_unformatted.csv")
 
 #-----------------------------------------------------------------------------------------------------------------
 # TABLE 1 
@@ -337,15 +338,15 @@ decomposition_long <- decomposition %>% select(-c(Change_Absolute:noncovid_chang
                                    ifelse(condition=="COVID.19..U071..Underlying.Cause.of.Death.", "2.Covid",
                                           ifelse(condition=="nonCovid", "3.NonCovid", condition)))) %>% arrange(AgeGroup, Race.Ethnicity, Sex, condition) %>% 
   gather(key="measure", value="value", AllCause_pct:NonCovid_pct)
-write.csv(decomposition, "Decomposition_unformatted.csv")
+write.csv(decomposition, "Clean Data/Decomposition_unformatted.csv")
 
 ## format all cause and non covid decomposition and merge into table
-allcause <- decomposition %>% subset(measure =="AllCause_pct") %>%  spread(Race.Ethnicity, value) %>% select(-c(measure)) %>% 
+allcause <- decomposition_long %>% subset(measure =="AllCause_pct") %>%  spread(Race.Ethnicity, value) %>% select(-c(measure)) %>% 
   dplyr::rename(All_allcause = All,
                 White_allcause =`Non-Hispanic White`,
                 Black_allcause =`Non-Hispanic Black`,
                 Hisp_allcause =`Hispanic`)
-noncovid <- decomposition %>% subset(measure =="NonCovid_pct") %>%  spread(Race.Ethnicity, value) %>% select(-c(measure)) %>% 
+noncovid <- decomposition_long %>% subset(measure =="NonCovid_pct") %>%  spread(Race.Ethnicity, value) %>% select(-c(measure)) %>% 
   dplyr::rename(All_noncovid = All,
                 White_noncovid =`Non-Hispanic White`,
                 Black_noncovid =`Non-Hispanic Black`,
@@ -360,14 +361,6 @@ decompositon <- merge(allcause, noncovid, by=c("AgeGroup", "Sex", "condition")) 
 # for example: TABLE 3: 
 table3 <- decompositon %>% subset(AgeGroup=="25+" & Sex=="Both")
 write.csv(table3, "Clean Data/Table3_Decomposition_25plusBothSexes.csv")
-
-
-
-
-
-
-
-
 
 
 
