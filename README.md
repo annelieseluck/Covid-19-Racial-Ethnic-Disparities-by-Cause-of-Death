@@ -8,10 +8,10 @@ This repo includes data and code required to replicate the results in the paper 
  [2_Visualization](https://github.com/annelieseluck/Covid-19-Racial-Ethnic-Disparities-by-Cause-of-Death/blob/main/2_Visualizations.R) includes code to generate figures from paper below. 
 
 ## Figure 1: Age-Standardized Death Rates (ASDR) by Race/Ethnicity, 2019-2020
-<img src="https://github.com/annelieseluck/Covid-19-Racial-Ethnic-Disparities-by-Cause-of-Death/blob/main/Visuals/FIGURE1.jpg" width="750" height="900">
+<img src="https://github.com/annelieseluck/Covid-19-Racial-Ethnic-Disparities-by-Cause-of-Death/blob/main/Visuals/FIGURE1.jpg" width="500" height="650">
 
 ## Figure 2: Change in Cause-Specific Age-Standardized Death Rates other than Covid-19 by Race/Ethnicity, 2019-2020
-<img src="https://github.com/annelieseluck/Covid-19-Racial-Ethnic-Disparities-by-Cause-of-Death/blob/main/Visuals/FIGURE2.jpg" width="750" height="900">
+<img src="https://github.com/annelieseluck/Covid-19-Racial-Ethnic-Disparities-by-Cause-of-Death/blob/main/Visuals/FIGURE2.jpg" width="500" height="650">
 
 ## Figure 3: Racial/Ethnic Comparisons of Non-Covid-19 Age-Standardized Death Rate Change (Both Sexes, Ages 25+), 2019-2020
-<img src="https://github.com/annelieseluck/Covid-19-Racial-Ethnic-Disparities-by-Cause-of-Death/blob/main/Visuals/FIGURE3.jpg" width="1300" height="750">
+<img src="https://github.com/annelieseluck/Covid-19-Racial-Ethnic-Disparities-by-Cause-of-Death/blob/main/Visuals/FIGURE3.jpg" width="700" height="600">
