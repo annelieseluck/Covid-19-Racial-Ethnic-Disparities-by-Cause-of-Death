@@ -2,7 +2,7 @@
 This repo includes data and code required to replicate the results in the paper "The Unequal Burden of the Covid-19 Pandemic: Capturing Racial/Ethnic Disparities in US Cause-Specific Mortality"
 
 [1_Cleaning and Age Standardization](https://github.com/annelieseluck/Covid-19-Racial-Ethnic-Disparities-by-Cause-of-Death/blob/main/1_Cleaning%20and%20Age%20Standardization.R)
- includes code to generate estimates and replicated Tables featured in paper. 
+ includes code to generate estimates and replicate Tables featured in paper. 
  
  
  [2_Visualization](https://github.com/annelieseluck/Covid-19-Racial-Ethnic-Disparities-by-Cause-of-Death/blob/main/2_Visualizations.R) includes code to generate figures from paper below. 
