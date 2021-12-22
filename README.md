@@ -10,4 +10,4 @@ This repo includes data and code required to replicate the results in the paper 
 <img src="https://github.com/annelieseluck/Covid-19-Racial-Ethnic-Disparities-by-Cause-of-Death/blob/main/Visuals/FIGURE2.jpg" width="750" height="900">
 
 ## Figure 3: Racial/Ethnic Comparisons of Non-Covid-19 Age-Standardized Death Rate Change (Both Sexes, Ages 25+), 2019-2020
-<img src="https://github.com/annelieseluck/Covid-19-Racial-Ethnic-Disparities-by-Cause-of-Death/blob/main/Visuals/FIGURE3.jpg" width="1000" height="800">
+<img src="https://github.com/annelieseluck/Covid-19-Racial-Ethnic-Disparities-by-Cause-of-Death/blob/main/Visuals/FIGURE3.jpg" width="1300" height="750">
