@@ -1,0 +1,1153 @@
+"","YEAR","Sex","Race.Ethnicity","condition","AgeGroup","ASDR"
+"1",2019,"Both","All","AllCause","25+",1253.73835590538
+"2",2019,"Both","All","Alzheimer.disease..G30.","25+",54.4881263045982
+"3",2019,"Both","All","Cerebrovascular.diseases..I60.I69.","25+",67.1509477718826
+"4",2019,"Both","All","Chronic.lower.respiratory.diseases..J40.J47.","25+",70.524956413995
+"5",2019,"Both","All","COVID.19..U071..Underlying.Cause.of.Death.","25+",0
+"6",2019,"Both","All","Diabetes.mellitus..E10.E14.","25+",39.2372142970725
+"7",2019,"Both","All","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25+",294.964730031135
+"8",2019,"Both","All","ExternalCause","25+",98.9979381886737
+"9",2019,"Both","All","Influenza.and.pneumonia..J09.J18.","25+",22.0752307039917
+"10",2019,"Both","All","Malignant.neoplasms..C00.C97.","25+",268.440131787743
+"11",2019,"Both","All","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25+",23.1063441585557
+"12",2019,"Both","All","nonCovid","25+",1253.73835590538
+"13",2019,"Both","All","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25+",19.6144913762092
+"14",2019,"Both","All","Septicemia..A40.A41.","25+",17.0984890028314
+"15",2019,"Both","All","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25+",13.0142842294053
+"16",2019,"Both","All","Unknown","25+",265.025471639286
+"17",2019,"Both","Hispanic","AllCause","25+",918.186551722724
+"18",2019,"Both","Hispanic","Alzheimer.disease..G30.","25+",46.5322385673531
+"19",2019,"Both","Hispanic","Cerebrovascular.diseases..I60.I69.","25+",59.7176932349841
+"20",2019,"Both","Hispanic","Chronic.lower.respiratory.diseases..J40.J47.","25+",29.4960087917528
+"21",2019,"Both","Hispanic","COVID.19..U071..Underlying.Cause.of.Death.","25+",0
+"22",2019,"Both","Hispanic","Diabetes.mellitus..E10.E14.","25+",47.2794857203018
+"23",2019,"Both","Hispanic","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25+",204.357223451733
+"24",2019,"Both","Hispanic","ExternalCause","25+",65.3858016661325
+"25",2019,"Both","Hispanic","Influenza.and.pneumonia..J09.J18.","25+",17.8452422740222
+"26",2019,"Both","Hispanic","Malignant.neoplasms..C00.C97.","25+",193.288410777973
+"27",2019,"Both","Hispanic","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25+",21.6412694292769
+"28",2019,"Both","Hispanic","nonCovid","25+",918.186551722724
+"29",2019,"Both","Hispanic","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25+",16.7187505595817
+"30",2019,"Both","Hispanic","Septicemia..A40.A41.","25+",12.266430010737
+"31",2019,"Both","Hispanic","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25+",6.85300832518957
+"32",2019,"Both","Hispanic","Unknown","25+",196.804988913687
+"33",2019,"Both","Non-Hispanic Black","AllCause","25+",1521.43050233757
+"34",2019,"Both","Non-Hispanic Black","Alzheimer.disease..G30.","25+",50.4928050150171
+"35",2019,"Both","Non-Hispanic Black","Cerebrovascular.diseases..I60.I69.","25+",96.5097473084224
+"36",2019,"Both","Non-Hispanic Black","Chronic.lower.respiratory.diseases..J40.J47.","25+",53.3548692383812
+"37",2019,"Both","Non-Hispanic Black","COVID.19..U071..Underlying.Cause.of.Death.","25+",0
+"38",2019,"Both","Non-Hispanic Black","Diabetes.mellitus..E10.E14.","25+",69.9383956725272
+"39",2019,"Both","Non-Hispanic Black","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25+",377.679968106661
+"40",2019,"Both","Non-Hispanic Black","ExternalCause","25+",111.266806207293
+"41",2019,"Both","Non-Hispanic Black","Influenza.and.pneumonia..J09.J18.","25+",24.6635860532617
+"42",2019,"Both","Non-Hispanic Black","Malignant.neoplasms..C00.C97.","25+",319.557332820561
+"43",2019,"Both","Non-Hispanic Black","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25+",45.9661444432869
+"44",2019,"Both","Non-Hispanic Black","nonCovid","25+",1521.43050233757
+"45",2019,"Both","Non-Hispanic Black","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25+",18.4929447743309
+"46",2019,"Both","Non-Hispanic Black","Septicemia..A40.A41.","25+",28.935902772378
+"47",2019,"Both","Non-Hispanic Black","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25+",15.441431149365
+"48",2019,"Both","Non-Hispanic Black","Unknown","25+",309.130568776088
+"49",2019,"Both","Non-Hispanic White","AllCause","25+",1299.77934845413
+"50",2019,"Both","Non-Hispanic White","Alzheimer.disease..G30.","25+",57.5552007471972
+"51",2019,"Both","Non-Hispanic White","Cerebrovascular.diseases..I60.I69.","25+",64.9424211769365
+"52",2019,"Both","Non-Hispanic White","Chronic.lower.respiratory.diseases..J40.J47.","25+",80.8610900240841
+"53",2019,"Both","Non-Hispanic White","COVID.19..U071..Underlying.Cause.of.Death.","25+",0
+"54",2019,"Both","Non-Hispanic White","Diabetes.mellitus..E10.E14.","25+",34.6798228894519
+"55",2019,"Both","Non-Hispanic White","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25+",303.826396154278
+"56",2019,"Both","Non-Hispanic White","ExternalCause","25+",108.858352952643
+"57",2019,"Both","Non-Hispanic White","Influenza.and.pneumonia..J09.J18.","25+",22.4374999747936
+"58",2019,"Both","Non-Hispanic White","Malignant.neoplasms..C00.C97.","25+",278.950568225728
+"59",2019,"Both","Non-Hispanic White","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25+",20.7598734303774
+"60",2019,"Both","Non-Hispanic White","nonCovid","25+",1299.77934845413
+"61",2019,"Both","Non-Hispanic White","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25+",20.6015118194885
+"62",2019,"Both","Non-Hispanic White","Septicemia..A40.A41.","25+",16.8419205496409
+"63",2019,"Both","Non-Hispanic White","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25+",13.8977950465476
+"64",2019,"Both","Non-Hispanic White","Unknown","25+",275.566895462961
+"65",2019,"Female","All","AllCause","25+",1063.92092327107
+"66",2019,"Female","All","Alzheimer.disease..G30.","25+",61.3257686591036
+"67",2019,"Female","All","Cerebrovascular.diseases..I60.I69.","25+",65.1359437297241
+"68",2019,"Female","All","Chronic.lower.respiratory.diseases..J40.J47.","25+",65.7821427564047
+"69",2019,"Female","All","COVID.19..U071..Underlying.Cause.of.Death.","25+",0
+"70",2019,"Female","All","Diabetes.mellitus..E10.E14.","25+",30.5634778338763
+"71",2019,"Female","All","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25+",230.330530763174
+"72",2019,"Female","All","ExternalCause","25+",58.9781270901384
+"73",2019,"Female","All","Influenza.and.pneumonia..J09.J18.","25+",19.1920763938073
+"74",2019,"Female","All","Malignant.neoplasms..C00.C97.","25+",230.010942916157
+"75",2019,"Female","All","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25+",19.4740254236455
+"76",2019,"Female","All","nonCovid","25+",1063.92092327107
+"77",2019,"Female","All","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25+",16.780651219926
+"78",2019,"Female","All","Septicemia..A40.A41.","25+",15.4401522682618
+"79",2019,"Female","All","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25+",11.7931107434643
+"80",2019,"Female","All","Unknown","25+",239.113973473392
+"81",2019,"Female","Hispanic","AllCause","25+",761.855728226744
+"82",2019,"Female","Hispanic","Alzheimer.disease..G30.","25+",51.9062059599955
+"83",2019,"Female","Hispanic","Cerebrovascular.diseases..I60.I69.","25+",55.2226259734293
+"84",2019,"Female","Hispanic","Chronic.lower.respiratory.diseases..J40.J47.","25+",24.6461781823015
+"85",2019,"Female","Hispanic","COVID.19..U071..Underlying.Cause.of.Death.","25+",0
+"86",2019,"Female","Hispanic","Diabetes.mellitus..E10.E14.","25+",38.6715771683328
+"87",2019,"Female","Hispanic","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25+",158.693906402642
+"88",2019,"Female","Hispanic","ExternalCause","25+",33.3327299090748
+"89",2019,"Female","Hispanic","Influenza.and.pneumonia..J09.J18.","25+",14.8253447080969
+"90",2019,"Female","Hispanic","Malignant.neoplasms..C00.C97.","25+",165.750824160144
+"91",2019,"Female","Hispanic","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25+",18.3308931177425
+"92",2019,"Female","Hispanic","nonCovid","25+",761.855728226744
+"93",2019,"Female","Hispanic","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25+",14.8671264433675
+"94",2019,"Female","Hispanic","Septicemia..A40.A41.","25+",10.4887165785851
+"95",2019,"Female","Hispanic","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25+",5.29372641892828
+"96",2019,"Female","Hispanic","Unknown","25+",169.825873204103
+"97",2019,"Female","Non-Hispanic Black","AllCause","25+",1257.78036322628
+"98",2019,"Female","Non-Hispanic Black","Alzheimer.disease..G30.","25+",54.86387502776
+"99",2019,"Female","Non-Hispanic Black","Cerebrovascular.diseases..I60.I69.","25+",88.4747068169701
+"100",2019,"Female","Non-Hispanic Black","Chronic.lower.respiratory.diseases..J40.J47.","25+",44.3410371216716
+"101",2019,"Female","Non-Hispanic Black","COVID.19..U071..Underlying.Cause.of.Death.","25+",0
+"102",2019,"Female","Non-Hispanic Black","Diabetes.mellitus..E10.E14.","25+",58.8406317834863
+"103",2019,"Female","Non-Hispanic Black","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25+",298.468849128831
+"104",2019,"Female","Non-Hispanic Black","ExternalCause","25+",53.9286255594362
+"105",2019,"Female","Non-Hispanic Black","Influenza.and.pneumonia..J09.J18.","25+",21.0094817992195
+"106",2019,"Female","Non-Hispanic Black","Malignant.neoplasms..C00.C97.","25+",271.179719588977
+"107",2019,"Female","Non-Hispanic Black","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25+",39.2999352470945
+"108",2019,"Female","Non-Hispanic Black","nonCovid","25+",1257.78036322628
+"109",2019,"Female","Non-Hispanic Black","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25+",16.6193511850531
+"110",2019,"Female","Non-Hispanic Black","Septicemia..A40.A41.","25+",25.6776253061115
+"111",2019,"Female","Non-Hispanic Black","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25+",12.797853434091
+"112",2019,"Female","Non-Hispanic Black","Unknown","25+",272.278671227574
+"113",2019,"Female","Non-Hispanic White","AllCause","25+",1109.02212009588
+"114",2019,"Female","Non-Hispanic White","Alzheimer.disease..G30.","25+",65.1027846804868
+"115",2019,"Female","Non-Hispanic White","Cerebrovascular.diseases..I60.I69.","25+",63.8989704365127
+"116",2019,"Female","Non-Hispanic White","Chronic.lower.respiratory.diseases..J40.J47.","25+",77.2443473150898
+"117",2019,"Female","Non-Hispanic White","COVID.19..U071..Underlying.Cause.of.Death.","25+",0
+"118",2019,"Female","Non-Hispanic White","Diabetes.mellitus..E10.E14.","25+",25.8356670700939
+"119",2019,"Female","Non-Hispanic White","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25+",236.489891557391
+"120",2019,"Female","Non-Hispanic White","ExternalCause","25+",68.1347315661462
+"121",2019,"Female","Non-Hispanic White","Influenza.and.pneumonia..J09.J18.","25+",19.7166523551383
+"122",2019,"Female","Non-Hispanic White","Malignant.neoplasms..C00.C97.","25+",239.098284367324
+"123",2019,"Female","Non-Hispanic White","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25+",17.2734642870728
+"124",2019,"Female","Non-Hispanic White","nonCovid","25+",1109.02212009588
+"125",2019,"Female","Non-Hispanic White","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25+",17.501607441401
+"126",2019,"Female","Non-Hispanic White","Septicemia..A40.A41.","25+",15.3017094121351
+"127",2019,"Female","Non-Hispanic White","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25+",12.9389921800641
+"128",2019,"Female","Non-Hispanic White","Unknown","25+",250.48501742702
+"129",2019,"Male","All","AllCause","25+",1479.09805428098
+"130",2019,"Male","All","Alzheimer.disease..G30.","25+",43.4416553256872
+"131",2019,"Male","All","Cerebrovascular.diseases..I60.I69.","25+",68.3077016522852
+"132",2019,"Male","All","Chronic.lower.respiratory.diseases..J40.J47.","25+",77.0407293405071
+"133",2019,"Male","All","COVID.19..U071..Underlying.Cause.of.Death.","25+",0
+"134",2019,"Male","All","Diabetes.mellitus..E10.E14.","25+",49.7566214384538
+"135",2019,"Male","All","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25+",374.227463534134
+"136",2019,"Male","All","ExternalCause","25+",142.211073305289
+"137",2019,"Male","All","Influenza.and.pneumonia..J09.J18.","25+",25.894837164569
+"138",2019,"Male","All","Malignant.neoplasms..C00.C97.","25+",319.45738676603
+"139",2019,"Male","All","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25+",28.0053253158789
+"140",2019,"Male","All","nonCovid","25+",1479.09805428098
+"141",2019,"Male","All","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25+",23.4185642924763
+"142",2019,"Male","All","Septicemia..A40.A41.","25+",19.2896435254463
+"143",2019,"Male","All","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25+",14.1486601071668
+"144",2019,"Male","All","Unknown","25+",293.898392513054
+"145",2019,"Male","Hispanic","AllCause","25+",1105.90008984191
+"146",2019,"Male","Hispanic","Alzheimer.disease..G30.","25+",37.6275528656961
+"147",2019,"Male","Hispanic","Cerebrovascular.diseases..I60.I69.","25+",64.5600733630523
+"148",2019,"Male","Hispanic","Chronic.lower.respiratory.diseases..J40.J47.","25+",36.4656761212685
+"149",2019,"Male","Hispanic","COVID.19..U071..Underlying.Cause.of.Death.","25+",0
+"150",2019,"Male","Hispanic","Diabetes.mellitus..E10.E14.","25+",57.7556857769662
+"151",2019,"Male","Hispanic","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25+",260.975438426286
+"152",2019,"Male","Hispanic","ExternalCause","25+",98.8467014431029
+"153",2019,"Male","Hispanic","Influenza.and.pneumonia..J09.J18.","25+",21.7321014460647
+"154",2019,"Male","Hispanic","Malignant.neoplasms..C00.C97.","25+",231.716798046362
+"155",2019,"Male","Hispanic","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25+",25.9023371822746
+"156",2019,"Male","Hispanic","nonCovid","25+",1105.90008984191
+"157",2019,"Male","Hispanic","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25+",19.1884907562351
+"158",2019,"Male","Hispanic","Septicemia..A40.A41.","25+",14.5661750954598
+"159",2019,"Male","Hispanic","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25+",8.52367062576152
+"160",2019,"Male","Hispanic","Unknown","25+",228.039388693377
+"161",2019,"Male","Non-Hispanic Black","AllCause","25+",1877.17387838602
+"162",2019,"Male","Non-Hispanic Black","Alzheimer.disease..G30.","25+",41.4154934564307
+"163",2019,"Male","Non-Hispanic Black","Cerebrovascular.diseases..I60.I69.","25+",105.712219598663
+"164",2019,"Male","Non-Hispanic Black","Chronic.lower.respiratory.diseases..J40.J47.","25+",67.9211548212294
+"165",2019,"Male","Non-Hispanic Black","COVID.19..U071..Underlying.Cause.of.Death.","25+",0
+"166",2019,"Male","Non-Hispanic Black","Diabetes.mellitus..E10.E14.","25+",85.0504687362806
+"167",2019,"Male","Non-Hispanic Black","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25+",485.466430210076
+"168",2019,"Male","Non-Hispanic Black","ExternalCause","25+",178.022940886223
+"169",2019,"Male","Non-Hispanic Black","Influenza.and.pneumonia..J09.J18.","25+",30.1812215481291
+"170",2019,"Male","Non-Hispanic Black","Malignant.neoplasms..C00.C97.","25+",395.307120629429
+"171",2019,"Male","Non-Hispanic Black","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25+",55.8509943788415
+"172",2019,"Male","Non-Hispanic Black","nonCovid","25+",1877.17387838602
+"173",2019,"Male","Non-Hispanic Black","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25+",21.4933695847755
+"174",2019,"Male","Non-Hispanic Black","Septicemia..A40.A41.","25+",33.9159721813331
+"175",2019,"Male","Non-Hispanic Black","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25+",18.5833467708118
+"176",2019,"Male","Non-Hispanic Black","Unknown","25+",358.253145583794
+"177",2019,"Male","Non-Hispanic White","AllCause","25+",1521.41423196719
+"178",2019,"Male","Non-Hispanic White","Alzheimer.disease..G30.","25+",45.7063365862021
+"179",2019,"Male","Non-Hispanic White","Cerebrovascular.diseases..I60.I69.","25+",64.8861428712333
+"180",2019,"Male","Non-Hispanic White","Chronic.lower.respiratory.diseases..J40.J47.","25+",85.8211254090325
+"181",2019,"Male","Non-Hispanic White","COVID.19..U071..Underlying.Cause.of.Death.","25+",0
+"182",2019,"Male","Non-Hispanic White","Diabetes.mellitus..E10.E14.","25+",45.24398892659
+"183",2019,"Male","Non-Hispanic White","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25+",384.832300971214
+"184",2019,"Male","Non-Hispanic White","ExternalCause","25+",152.1024219465
+"185",2019,"Male","Non-Hispanic White","Influenza.and.pneumonia..J09.J18.","25+",26.0097050617769
+"186",2019,"Male","Non-Hispanic White","Malignant.neoplasms..C00.C97.","25+",330.55574282756
+"187",2019,"Male","Non-Hispanic White","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25+",25.491909419685
+"188",2019,"Male","Non-Hispanic White","nonCovid","25+",1521.41423196719
+"189",2019,"Male","Non-Hispanic White","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25+",24.657930863691
+"190",2019,"Male","Non-Hispanic White","Septicemia..A40.A41.","25+",18.8758367265095
+"191",2019,"Male","Non-Hispanic White","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25+",14.6939673035225
+"192",2019,"Male","Non-Hispanic White","Unknown","25+",302.536823053672
+"193",2020,"Both","All","AllCause","25+",1467.18106614886
+"194",2020,"Both","All","Alzheimer.disease..G30.","25+",59.2498918073175
+"195",2020,"Both","All","Cerebrovascular.diseases..I60.I69.","25+",70.649719070548
+"196",2020,"Both","All","Chronic.lower.respiratory.diseases..J40.J47.","25+",67.2389486438267
+"197",2020,"Both","All","COVID.19..U071..Underlying.Cause.of.Death.","25+",154.788527754977
+"198",2020,"Both","All","Diabetes.mellitus..E10.E14.","25+",44.9762808714821
+"199",2020,"Both","All","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25+",307.479409635615
+"200",2020,"Both","All","ExternalCause","25+",110.818269726046
+"201",2020,"Both","All","Influenza.and.pneumonia..J09.J18.","25+",23.4734250881173
+"202",2020,"Both","All","Malignant.neoplasms..C00.C97.","25+",265.012891013446
+"203",2020,"Both","All","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25+",23.1504388070876
+"204",2020,"Both","All","nonCovid","25+",1312.39253839388
+"205",2020,"Both","All","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25+",19.7445219993435
+"206",2020,"Both","All","Septicemia..A40.A41.","25+",17.6367276489622
+"207",2020,"Both","All","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25+",13.5835145648921
+"208",2020,"Both","All","Unknown","25+",289.378499517195
+"209",2020,"Both","Hispanic","AllCause","25+",1278.89719584533
+"210",2020,"Both","Hispanic","Alzheimer.disease..G30.","25+",53.0071706443016
+"211",2020,"Both","Hispanic","Cerebrovascular.diseases..I60.I69.","25+",63.6275161520983
+"212",2020,"Both","Hispanic","Chronic.lower.respiratory.diseases..J40.J47.","25+",29.1368742800985
+"213",2020,"Both","Hispanic","COVID.19..U071..Underlying.Cause.of.Death.","25+",285.79149961378
+"214",2020,"Both","Hispanic","Diabetes.mellitus..E10.E14.","25+",56.8184636455309
+"215",2020,"Both","Hispanic","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25+",225.592299790733
+"216",2020,"Both","Hispanic","ExternalCause","25+",74.6939545129523
+"217",2020,"Both","Hispanic","Influenza.and.pneumonia..J09.J18.","25+",21.9734203986174
+"218",2020,"Both","Hispanic","Malignant.neoplasms..C00.C97.","25+",189.216713152628
+"219",2020,"Both","Hispanic","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25+",21.4550950770244
+"220",2020,"Both","Hispanic","nonCovid","25+",993.105696231555
+"221",2020,"Both","Hispanic","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25+",17.2430180040062
+"222",2020,"Both","Hispanic","Septicemia..A40.A41.","25+",13.0541653612542
+"223",2020,"Both","Hispanic","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25+",7.81614592899354
+"224",2020,"Both","Hispanic","Unknown","25+",219.470859283317
+"225",2020,"Both","Non-Hispanic Black","AllCause","25+",1934.77758489808
+"226",2020,"Both","Non-Hispanic Black","Alzheimer.disease..G30.","25+",57.62412318549
+"227",2020,"Both","Non-Hispanic Black","Cerebrovascular.diseases..I60.I69.","25+",104.689979288378
+"228",2020,"Both","Non-Hispanic Black","Chronic.lower.respiratory.diseases..J40.J47.","25+",55.8421811997288
+"229",2020,"Both","Non-Hispanic Black","COVID.19..U071..Underlying.Cause.of.Death.","25+",259.169794813145
+"230",2020,"Both","Non-Hispanic Black","Diabetes.mellitus..E10.E14.","25+",85.3129591292518
+"231",2020,"Both","Non-Hispanic Black","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25+",420.282701540331
+"232",2020,"Both","Non-Hispanic Black","ExternalCause","25+",140.301693467477
+"233",2020,"Both","Non-Hispanic Black","Influenza.and.pneumonia..J09.J18.","25+",30.8059840016659
+"234",2020,"Both","Non-Hispanic Black","Malignant.neoplasms..C00.C97.","25+",312.546064323747
+"235",2020,"Both","Non-Hispanic Black","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25+",48.0970407458251
+"236",2020,"Both","Non-Hispanic Black","nonCovid","25+",1675.60779008493
+"237",2020,"Both","Non-Hispanic Black","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25+",21.7050961593078
+"238",2020,"Both","Non-Hispanic Black","Septicemia..A40.A41.","25+",30.4111253901446
+"239",2020,"Both","Non-Hispanic Black","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25+",18.0088977189047
+"240",2020,"Both","Non-Hispanic Black","Unknown","25+",349.979943934682
+"241",2020,"Both","Non-Hispanic White","AllCause","25+",1468.90892570831
+"242",2020,"Both","Non-Hispanic White","Alzheimer.disease..G30.","25+",62.1255155167422
+"243",2020,"Both","Non-Hispanic White","Cerebrovascular.diseases..I60.I69.","25+",67.7663970621347
+"244",2020,"Both","Non-Hispanic White","Chronic.lower.respiratory.diseases..J40.J47.","25+",76.6815223536501
+"245",2020,"Both","Non-Hispanic White","COVID.19..U071..Underlying.Cause.of.Death.","25+",121.943325835811
+"246",2020,"Both","Non-Hispanic White","Diabetes.mellitus..E10.E14.","25+",38.4268506322032
+"247",2020,"Both","Non-Hispanic White","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25+",312.022858708617
+"248",2020,"Both","Non-Hispanic White","ExternalCause","25+",119.08319947563
+"249",2020,"Both","Non-Hispanic White","Influenza.and.pneumonia..J09.J18.","25+",22.8928086389573
+"250",2020,"Both","Non-Hispanic White","Malignant.neoplasms..C00.C97.","25+",276.537308249531
+"251",2020,"Both","Non-Hispanic White","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25+",20.4919258310002
+"252",2020,"Both","Non-Hispanic White","nonCovid","25+",1346.9655998725
+"253",2020,"Both","Non-Hispanic White","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25+",20.3647371719741
+"254",2020,"Both","Non-Hispanic White","Septicemia..A40.A41.","25+",17.2378139118742
+"255",2020,"Both","Non-Hispanic White","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25+",14.0350767759355
+"256",2020,"Both","Non-Hispanic White","Unknown","25+",299.299585544246
+"257",2020,"Female","All","AllCause","25+",1230.08131382308
+"258",2020,"Female","All","Alzheimer.disease..G30.","25+",67.5192294945096
+"259",2020,"Female","All","Cerebrovascular.diseases..I60.I69.","25+",68.0852191058049
+"260",2020,"Female","All","Chronic.lower.respiratory.diseases..J40.J47.","25+",61.9250675510084
+"261",2020,"Female","All","COVID.19..U071..Underlying.Cause.of.Death.","25+",121.490628238789
+"262",2020,"Female","All","Diabetes.mellitus..E10.E14.","25+",35.2851954732027
+"263",2020,"Female","All","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25+",237.952810704037
+"264",2020,"Female","All","ExternalCause","25+",64.4086796937387
+"265",2020,"Female","All","Influenza.and.pneumonia..J09.J18.","25+",19.7402381217139
+"266",2020,"Female","All","Malignant.neoplasms..C00.C97.","25+",227.240342153033
+"267",2020,"Female","All","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25+",19.4986773828208
+"268",2020,"Female","All","nonCovid","25+",1108.59068558429
+"269",2020,"Female","All","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25+",16.7043464785973
+"270",2020,"Female","All","Septicemia..A40.A41.","25+",16.1049389043481
+"271",2020,"Female","All","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25+",12.2559376639235
+"272",2020,"Female","All","Unknown","25+",261.870002857551
+"273",2020,"Female","Hispanic","AllCause","25+",1016.12559596391
+"274",2020,"Female","Hispanic","Alzheimer.disease..G30.","25+",59.6636282634417
+"275",2020,"Female","Hispanic","Cerebrovascular.diseases..I60.I69.","25+",58.6311513954221
+"276",2020,"Female","Hispanic","Chronic.lower.respiratory.diseases..J40.J47.","25+",24.5382559097093
+"277",2020,"Female","Hispanic","COVID.19..U071..Underlying.Cause.of.Death.","25+",198.052988756811
+"278",2020,"Female","Hispanic","Diabetes.mellitus..E10.E14.","25+",46.330119754076
+"279",2020,"Female","Hispanic","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25+",173.273284778436
+"280",2020,"Female","Hispanic","ExternalCause","25+",35.7526581471733
+"281",2020,"Female","Hispanic","Influenza.and.pneumonia..J09.J18.","25+",17.8830128769897
+"282",2020,"Female","Hispanic","Malignant.neoplasms..C00.C97.","25+",163.700228254119
+"283",2020,"Female","Hispanic","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25+",17.9399185360584
+"284",2020,"Female","Hispanic","nonCovid","25+",818.072607207103
+"285",2020,"Female","Hispanic","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25+",14.5478132733565
+"286",2020,"Female","Hispanic","Septicemia..A40.A41.","25+",11.6846828224551
+"287",2020,"Female","Hispanic","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25+",6.10579616352162
+"288",2020,"Female","Hispanic","Unknown","25+",188.022057032344
+"289",2020,"Female","Non-Hispanic Black","AllCause","25+",1580.79359744763
+"290",2020,"Female","Non-Hispanic Black","Alzheimer.disease..G30.","25+",63.0892961813553
+"291",2020,"Female","Non-Hispanic Black","Cerebrovascular.diseases..I60.I69.","25+",94.2059026352926
+"292",2020,"Female","Non-Hispanic Black","Chronic.lower.respiratory.diseases..J40.J47.","25+",46.8227751445579
+"293",2020,"Female","Non-Hispanic Black","COVID.19..U071..Underlying.Cause.of.Death.","25+",205.118817698088
+"294",2020,"Female","Non-Hispanic Black","Diabetes.mellitus..E10.E14.","25+",71.1684819306572
+"295",2020,"Female","Non-Hispanic Black","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25+",330.873528628373
+"296",2020,"Female","Non-Hispanic Black","ExternalCause","25+",66.1106490051536
+"297",2020,"Female","Non-Hispanic Black","Influenza.and.pneumonia..J09.J18.","25+",24.83535927833
+"298",2020,"Female","Non-Hispanic Black","Malignant.neoplasms..C00.C97.","25+",265.133217281488
+"299",2020,"Female","Non-Hispanic Black","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25+",41.5095515687122
+"300",2020,"Female","Non-Hispanic Black","nonCovid","25+",1375.67477974954
+"301",2020,"Female","Non-Hispanic Black","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25+",19.1165436865704
+"302",2020,"Female","Non-Hispanic Black","Septicemia..A40.A41.","25+",27.5290447337566
+"303",2020,"Female","Non-Hispanic Black","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25+",14.9881621688732
+"304",2020,"Female","Non-Hispanic Black","Unknown","25+",310.292267506423
+"305",2020,"Female","Non-Hispanic White","AllCause","25+",1245.15042519317
+"306",2020,"Female","Non-Hispanic White","Alzheimer.disease..G30.","25+",71.2061943870752
+"307",2020,"Female","Non-Hispanic White","Cerebrovascular.diseases..I60.I69.","25+",66.4205983202326
+"308",2020,"Female","Non-Hispanic White","Chronic.lower.respiratory.diseases..J40.J47.","25+",72.1620409529405
+"309",2020,"Female","Non-Hispanic White","COVID.19..U071..Underlying.Cause.of.Death.","25+",99.3456130427998
+"310",2020,"Female","Non-Hispanic White","Diabetes.mellitus..E10.E14.","25+",29.0479440033927
+"311",2020,"Female","Non-Hispanic White","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25+",240.496654444011
+"312",2020,"Female","Non-Hispanic White","ExternalCause","25+",73.6916872242483
+"313",2020,"Female","Non-Hispanic White","Influenza.and.pneumonia..J09.J18.","25+",19.6245360034271
+"314",2020,"Female","Non-Hispanic White","Malignant.neoplasms..C00.C97.","25+",236.988055632824
+"315",2020,"Female","Non-Hispanic White","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25+",16.9759995794686
+"316",2020,"Female","Non-Hispanic White","nonCovid","25+",1145.80481215037
+"317",2020,"Female","Non-Hispanic White","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25+",17.2358755493036
+"318",2020,"Female","Non-Hispanic White","Septicemia..A40.A41.","25+",15.8068094256391
+"319",2020,"Female","Non-Hispanic White","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25+",13.0429703614839
+"320",2020,"Female","Non-Hispanic White","Unknown","25+",273.105446266319
+"321",2020,"Male","All","AllCause","25+",1746.54372206913
+"322",2020,"Male","All","Alzheimer.disease..G30.","25+",46.0913923598827
+"323",2020,"Male","All","Cerebrovascular.diseases..I60.I69.","25+",72.430599293645
+"324",2020,"Male","All","Chronic.lower.respiratory.diseases..J40.J47.","25+",74.3491238548377
+"325",2020,"Male","All","COVID.19..U071..Underlying.Cause.of.Death.","25+",196.115474619425
+"326",2020,"Male","All","Diabetes.mellitus..E10.E14.","25+",56.6248984702999
+"327",2020,"Male","All","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25+",391.995902471795
+"328",2020,"Male","All","ExternalCause","25+",160.41947911765
+"329",2020,"Male","All","Influenza.and.pneumonia..J09.J18.","25+",28.4522652181948
+"330",2020,"Male","All","Malignant.neoplasms..C00.C97.","25+",315.096033247278
+"331",2020,"Male","All","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25+",28.0393957507022
+"332",2020,"Male","All","nonCovid","25+",1550.42824744971
+"333",2020,"Male","All","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25+",23.7063035966985
+"334",2020,"Male","All","Septicemia..A40.A41.","25+",19.628074285533
+"335",2020,"Male","All","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25+",14.7712615659759
+"336",2020,"Male","All","Unknown","25+",318.823518217212
+"337",2020,"Male","Hispanic","AllCause","25+",1592.4617291696
+"338",2020,"Male","Hispanic","Alzheimer.disease..G30.","25+",42.1456834753131
+"339",2020,"Male","Hispanic","Cerebrovascular.diseases..I60.I69.","25+",68.8152881168501
+"340",2020,"Male","Hispanic","Chronic.lower.respiratory.diseases..J40.J47.","25+",35.7321856533434
+"341",2020,"Male","Hispanic","COVID.19..U071..Underlying.Cause.of.Death.","25+",394.166762959395
+"342",2020,"Male","Hispanic","Diabetes.mellitus..E10.E14.","25+",69.4310771719365
+"343",2020,"Male","Hispanic","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25+",289.709895381572
+"344",2020,"Male","Hispanic","ExternalCause","25+",114.78379953059
+"345",2020,"Male","Hispanic","Influenza.and.pneumonia..J09.J18.","25+",27.343312706134
+"346",2020,"Male","Hispanic","Malignant.neoplasms..C00.C97.","25+",224.505403909403
+"347",2020,"Male","Hispanic","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25+",26.0176515320322
+"348",2020,"Male","Hispanic","nonCovid","25+",1198.2949662102
+"349",2020,"Male","Hispanic","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25+",20.7801774780384
+"350",2020,"Male","Hispanic","Septicemia..A40.A41.","25+",14.7749689750598
+"351",2020,"Male","Hispanic","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25+",9.6067715925016
+"352",2020,"Male","Hispanic","Unknown","25+",254.648750687427
+"353",2020,"Male","Non-Hispanic Black","AllCause","25+",2410.99417677214
+"354",2020,"Male","Non-Hispanic Black","Alzheimer.disease..G30.","25+",46.2958830211069
+"355",2020,"Male","Non-Hispanic Black","Cerebrovascular.diseases..I60.I69.","25+",117.353314263353
+"356",2020,"Male","Non-Hispanic Black","Chronic.lower.respiratory.diseases..J40.J47.","25+",69.9444334056759
+"357",2020,"Male","Non-Hispanic Black","COVID.19..U071..Underlying.Cause.of.Death.","25+",339.069713853939
+"358",2020,"Male","Non-Hispanic Black","Diabetes.mellitus..E10.E14.","25+",104.509724906802
+"359",2020,"Male","Non-Hispanic Black","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25+",540.701728250393
+"360",2020,"Male","Non-Hispanic Black","ExternalCause","25+",225.775775393836
+"361",2020,"Male","Non-Hispanic Black","Influenza.and.pneumonia..J09.J18.","25+",39.7270186789768
+"362",2020,"Male","Non-Hispanic Black","Malignant.neoplasms..C00.C97.","25+",387.3154491133
+"363",2020,"Male","Non-Hispanic Black","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25+",57.6655047123056
+"364",2020,"Male","Non-Hispanic Black","nonCovid","25+",2071.9244629182
+"365",2020,"Male","Non-Hispanic Black","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25+",25.4773464970112
+"366",2020,"Male","Non-Hispanic Black","Septicemia..A40.A41.","25+",34.7596769024169
+"367",2020,"Male","Non-Hispanic Black","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25+",21.6059772388625
+"368",2020,"Male","Non-Hispanic Black","Unknown","25+",400.792630534164
+"369",2020,"Male","Non-Hispanic White","AllCause","25+",1727.46774349261
+"370",2020,"Male","Non-Hispanic White","Alzheimer.disease..G30.","25+",48.0909170464577
+"371",2020,"Male","Non-Hispanic White","Cerebrovascular.diseases..I60.I69.","25+",68.0446815869597
+"372",2020,"Male","Non-Hispanic White","Chronic.lower.respiratory.diseases..J40.J47.","25+",82.6109197633891
+"373",2020,"Male","Non-Hispanic White","COVID.19..U071..Underlying.Cause.of.Death.","25+",150.260832941288
+"374",2020,"Male","Non-Hispanic White","Diabetes.mellitus..E10.E14.","25+",49.5815712732925
+"375",2020,"Male","Non-Hispanic White","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25+",397.371552123932
+"376",2020,"Male","Non-Hispanic White","ExternalCause","25+",166.920496225997
+"377",2020,"Male","Non-Hispanic White","Influenza.and.pneumonia..J09.J18.","25+",27.2406566527349
+"378",2020,"Male","Non-Hispanic White","Malignant.neoplasms..C00.C97.","25+",327.615697433647
+"379",2020,"Male","Non-Hispanic White","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25+",25.2181692412301
+"380",2020,"Male","Non-Hispanic White","nonCovid","25+",1577.20691055132
+"381",2020,"Male","Non-Hispanic White","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25+",24.3665507939451
+"382",2020,"Male","Non-Hispanic White","Septicemia..A40.A41.","25+",19.0862578421125
+"383",2020,"Male","Non-Hispanic White","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25+",14.7872859724767
+"384",2020,"Male","Non-Hispanic White","Unknown","25+",326.272154595148
+"385",2019,"Both","All","AllCause","25-64",395.562186367561
+"386",2019,"Both","All","Alzheimer.disease..G30.","25-64",0.822853448611197
+"387",2019,"Both","All","Cerebrovascular.diseases..I60.I69.","25-64",11.9077834995291
+"388",2019,"Both","All","Chronic.lower.respiratory.diseases..J40.J47.","25-64",13.6354010551588
+"389",2019,"Both","All","COVID.19..U071..Underlying.Cause.of.Death.","25-64",0
+"390",2019,"Both","All","Diabetes.mellitus..E10.E14.","25-64",14.5693922255484
+"391",2019,"Both","All","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25-64",73.4965801909222
+"392",2019,"Both","All","ExternalCause","25-64",86.3072694823282
+"393",2019,"Both","All","Influenza.and.pneumonia..J09.J18.","25-64",5.13964467111927
+"394",2019,"Both","All","Malignant.neoplasms..C00.C97.","25-64",94.3085502190796
+"395",2019,"Both","All","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25-64",5.36135972503194
+"396",2019,"Both","All","nonCovid","25-64",395.562186367561
+"397",2019,"Both","All","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25-64",4.1321724999457
+"398",2019,"Both","All","Septicemia..A40.A41.","25-64",5.27592256162837
+"399",2019,"Both","All","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25-64",4.50524044233718
+"400",2019,"Both","All","Unknown","25-64",76.1000163463209
+"401",2019,"Both","Hispanic","AllCause","25-64",275.856400863834
+"402",2019,"Both","Hispanic","Alzheimer.disease..G30.","25-64",0.589649694584485
+"403",2019,"Both","Hispanic","Cerebrovascular.diseases..I60.I69.","25-64",10.5490428528639
+"404",2019,"Both","Hispanic","Chronic.lower.respiratory.diseases..J40.J47.","25-64",3.64140450153088
+"405",2019,"Both","Hispanic","COVID.19..U071..Underlying.Cause.of.Death.","25-64",0
+"406",2019,"Both","Hispanic","Diabetes.mellitus..E10.E14.","25-64",14.2195917539238
+"407",2019,"Both","Hispanic","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25-64",44.8718951335857
+"408",2019,"Both","Hispanic","ExternalCause","25-64",58.7190787226707
+"409",2019,"Both","Hispanic","Influenza.and.pneumonia..J09.J18.","25-64",4.06108790088476
+"410",2019,"Both","Hispanic","Malignant.neoplasms..C00.C97.","25-64",65.9171792179801
+"411",2019,"Both","Hispanic","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25-64",4.97969884674298
+"412",2019,"Both","Hispanic","nonCovid","25-64",275.856400863834
+"413",2019,"Both","Hispanic","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25-64",3.08439517996738
+"414",2019,"Both","Hispanic","Septicemia..A40.A41.","25-64",3.70559811466913
+"415",2019,"Both","Hispanic","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25-64",2.95927276993082
+"416",2019,"Both","Hispanic","Unknown","25-64",58.5585061744996
+"417",2019,"Both","Non-Hispanic Black","AllCause","25-64",596.648881573203
+"418",2019,"Both","Non-Hispanic Black","Alzheimer.disease..G30.","25-64",0.71008946130129
+"419",2019,"Both","Non-Hispanic Black","Cerebrovascular.diseases..I60.I69.","25-64",24.887376709121
+"420",2019,"Both","Non-Hispanic Black","Chronic.lower.respiratory.diseases..J40.J47.","25-64",14.951665002034
+"421",2019,"Both","Non-Hispanic Black","COVID.19..U071..Underlying.Cause.of.Death.","25-64",0
+"422",2019,"Both","Non-Hispanic Black","Diabetes.mellitus..E10.E14.","25-64",27.7055354415097
+"423",2019,"Both","Non-Hispanic Black","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25-64",134.222129728151
+"424",2019,"Both","Non-Hispanic Black","ExternalCause","25-64",112.120247624824
+"425",2019,"Both","Non-Hispanic Black","Influenza.and.pneumonia..J09.J18.","25-64",7.94492985430197
+"426",2019,"Both","Non-Hispanic Black","Malignant.neoplasms..C00.C97.","25-64",124.65032649815
+"427",2019,"Both","Non-Hispanic Black","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25-64",13.8178654658822
+"428",2019,"Both","Non-Hispanic Black","nonCovid","25-64",596.648881573203
+"429",2019,"Both","Non-Hispanic Black","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25-64",6.63085788811654
+"430",2019,"Both","Non-Hispanic Black","Septicemia..A40.A41.","25-64",10.254553119671
+"431",2019,"Both","Non-Hispanic Black","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25-64",7.31213178907238
+"432",2019,"Both","Non-Hispanic Black","Unknown","25-64",111.441172991067
+"433",2019,"Both","Non-Hispanic White","AllCause","25-64",405.642059469293
+"434",2019,"Both","Non-Hispanic White","Alzheimer.disease..G30.","25-64",0.936858909778118
+"435",2019,"Both","Non-Hispanic White","Cerebrovascular.diseases..I60.I69.","25-64",10.0349859485169
+"436",2019,"Both","Non-Hispanic White","Chronic.lower.respiratory.diseases..J40.J47.","25-64",16.2589044074676
+"437",2019,"Both","Non-Hispanic White","COVID.19..U071..Underlying.Cause.of.Death.","25-64",0
+"438",2019,"Both","Non-Hispanic White","Diabetes.mellitus..E10.E14.","25-64",12.7446710879689
+"439",2019,"Both","Non-Hispanic White","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25-64",72.2270039234878
+"440",2019,"Both","Non-Hispanic White","ExternalCause","25-64",95.347564084467
+"441",2019,"Both","Non-Hispanic White","Influenza.and.pneumonia..J09.J18.","25-64",5.06308415680092
+"442",2019,"Both","Non-Hispanic White","Malignant.neoplasms..C00.C97.","25-64",97.9372457769964
+"443",2019,"Both","Non-Hispanic White","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25-64",4.14535557871625
+"444",2019,"Both","Non-Hispanic White","nonCovid","25-64",405.642059469293
+"445",2019,"Both","Non-Hispanic White","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25-64",4.11906574672539
+"446",2019,"Both","Non-Hispanic White","Septicemia..A40.A41.","25-64",5.02935449947212
+"447",2019,"Both","Non-Hispanic White","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25-64",4.58301159143129
+"448",2019,"Both","Non-Hispanic White","Unknown","25-64",77.2149537574642
+"449",2019,"Female","All","AllCause","25-64",292.515302776342
+"450",2019,"Female","All","Alzheimer.disease..G30.","25-64",0.912996279255009
+"451",2019,"Female","All","Cerebrovascular.diseases..I60.I69.","25-64",9.8645970656767
+"452",2019,"Female","All","Chronic.lower.respiratory.diseases..J40.J47.","25-64",13.4371710723923
+"453",2019,"Female","All","COVID.19..U071..Underlying.Cause.of.Death.","25-64",0
+"454",2019,"Female","All","Diabetes.mellitus..E10.E14.","25-64",10.459689496069
+"455",2019,"Female","All","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25-64",43.9059719214831
+"456",2019,"Female","All","ExternalCause","25-64",45.4236684957663
+"457",2019,"Female","All","Influenza.and.pneumonia..J09.J18.","25-64",4.36254095244457
+"458",2019,"Female","All","Malignant.neoplasms..C00.C97.","25-64",88.688447840643
+"459",2019,"Female","All","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25-64",4.27315753599121
+"460",2019,"Female","All","nonCovid","25-64",292.515302776342
+"461",2019,"Female","All","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25-64",3.73715620628058
+"462",2019,"Female","All","Septicemia..A40.A41.","25-64",4.77716319177339
+"463",2019,"Female","All","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25-64",3.22541106247877
+"464",2019,"Female","All","Unknown","25-64",59.4473316560883
+"465",2019,"Female","Hispanic","AllCause","25-64",188.008438393862
+"466",2019,"Female","Hispanic","Alzheimer.disease..G30.","25-64",0.64681390638128
+"467",2019,"Female","Hispanic","Cerebrovascular.diseases..I60.I69.","25-64",7.70568422347011
+"468",2019,"Female","Hispanic","Chronic.lower.respiratory.diseases..J40.J47.","25-64",3.22473797335579
+"469",2019,"Female","Hispanic","COVID.19..U071..Underlying.Cause.of.Death.","25-64",0
+"470",2019,"Female","Hispanic","Diabetes.mellitus..E10.E14.","25-64",10.1929514478078
+"471",2019,"Female","Hispanic","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25-64",23.5140499447163
+"472",2019,"Female","Hispanic","ExternalCause","25-64",24.617245038276
+"473",2019,"Female","Hispanic","Influenza.and.pneumonia..J09.J18.","25-64",3.05840622941181
+"474",2019,"Female","Hispanic","Malignant.neoplasms..C00.C97.","25-64",64.6740908536477
+"475",2019,"Female","Hispanic","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25-64",3.7263234741695
+"476",2019,"Female","Hispanic","nonCovid","25-64",188.008438393862
+"477",2019,"Female","Hispanic","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25-64",2.66621233914085
+"478",2019,"Female","Hispanic","Septicemia..A40.A41.","25-64",2.81175117640861
+"479",2019,"Female","Hispanic","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25-64",1.54985988585559
+"480",2019,"Female","Hispanic","Unknown","25-64",39.6203119012207
+"481",2019,"Female","Non-Hispanic Black","AllCause","25-64",443.049193882573
+"482",2019,"Female","Non-Hispanic Black","Alzheimer.disease..G30.","25-64",0.70632440737982
+"483",2019,"Female","Non-Hispanic Black","Cerebrovascular.diseases..I60.I69.","25-64",20.2303013085116
+"484",2019,"Female","Non-Hispanic Black","Chronic.lower.respiratory.diseases..J40.J47.","25-64",13.8412545625157
+"485",2019,"Female","Non-Hispanic Black","COVID.19..U071..Underlying.Cause.of.Death.","25-64",0
+"486",2019,"Female","Non-Hispanic Black","Diabetes.mellitus..E10.E14.","25-64",21.9441544404531
+"487",2019,"Female","Non-Hispanic Black","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25-64",89.9488019856068
+"488",2019,"Female","Non-Hispanic Black","ExternalCause","25-64",48.8559633329141
+"489",2019,"Female","Non-Hispanic Black","Influenza.and.pneumonia..J09.J18.","25-64",6.51268335355839
+"490",2019,"Female","Non-Hispanic Black","Malignant.neoplasms..C00.C97.","25-64",117.843294571462
+"491",2019,"Female","Non-Hispanic Black","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25-64",11.0701659369142
+"492",2019,"Female","Non-Hispanic Black","nonCovid","25-64",443.049193882573
+"493",2019,"Female","Non-Hispanic Black","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25-64",6.32119785894909
+"494",2019,"Female","Non-Hispanic Black","Septicemia..A40.A41.","25-64",9.59818191660752
+"495",2019,"Female","Non-Hispanic Black","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25-64",5.06855460566392
+"496",2019,"Female","Non-Hispanic Black","Unknown","25-64",91.1083156020373
+"497",2019,"Female","Non-Hispanic White","AllCause","25-64",302.976824224143
+"498",2019,"Female","Non-Hispanic White","Alzheimer.disease..G30.","25-64",1.05358921506311
+"499",2019,"Female","Non-Hispanic White","Cerebrovascular.diseases..I60.I69.","25-64",8.534797527233
+"500",2019,"Female","Non-Hispanic White","Chronic.lower.respiratory.diseases..J40.J47.","25-64",16.4225436014382
+"501",2019,"Female","Non-Hispanic White","COVID.19..U071..Underlying.Cause.of.Death.","25-64",0
+"502",2019,"Female","Non-Hispanic White","Diabetes.mellitus..E10.E14.","25-64",8.73266187367613
+"503",2019,"Female","Non-Hispanic White","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25-64",42.2453834242161
+"504",2019,"Female","Non-Hispanic White","ExternalCause","25-64",54.0553016209151
+"505",2019,"Female","Non-Hispanic White","Influenza.and.pneumonia..J09.J18.","25-64",4.45812328533521
+"506",2019,"Female","Non-Hispanic White","Malignant.neoplasms..C00.C97.","25-64",91.3538603566346
+"507",2019,"Female","Non-Hispanic White","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25-64",3.32346909873064
+"508",2019,"Female","Non-Hispanic White","nonCovid","25-64",302.976824224143
+"509",2019,"Female","Non-Hispanic White","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25-64",3.67713151209601
+"510",2019,"Female","Non-Hispanic White","Septicemia..A40.A41.","25-64",4.61165876400422
+"511",2019,"Female","Non-Hispanic White","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25-64",3.50666709252353
+"512",2019,"Female","Non-Hispanic White","Unknown","25-64",61.0016368522774
+"513",2019,"Male","All","AllCause","25-64",502.555781774162
+"514",2019,"Male","All","Alzheimer.disease..G30.","25-64",0.726207180177598
+"515",2019,"Male","All","Cerebrovascular.diseases..I60.I69.","25-64",14.0661328927988
+"516",2019,"Male","All","Chronic.lower.respiratory.diseases..J40.J47.","25-64",13.8570476036001
+"517",2019,"Male","All","COVID.19..U071..Underlying.Cause.of.Death.","25-64",0
+"518",2019,"Male","All","Diabetes.mellitus..E10.E14.","25-64",18.8852095380597
+"519",2019,"Male","All","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25-64",104.622657694851
+"520",2019,"Male","All","ExternalCause","25-64",127.755897746359
+"521",2019,"Male","All","Influenza.and.pneumonia..J09.J18.","25-64",5.95652174024358
+"522",2019,"Male","All","Malignant.neoplasms..C00.C97.","25-64",100.426057771652
+"523",2019,"Male","All","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25-64",6.51086922488254
+"524",2019,"Male","All","nonCovid","25-64",502.555781774162
+"525",2019,"Male","All","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25-64",4.54956877219103
+"526",2019,"Male","All","Septicemia..A40.A41.","25-64",5.80320112370288
+"527",2019,"Male","All","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25-64",5.82737161598568
+"528",2019,"Male","All","Unknown","25-64",93.569038869658
+"529",2019,"Male","Hispanic","AllCause","25-64",363.776050227749
+"530",2019,"Male","Hispanic","Alzheimer.disease..G30.","25-64",0.528039744394954
+"531",2019,"Male","Hispanic","Cerebrovascular.diseases..I60.I69.","25-64",13.4547987414946
+"532",2019,"Male","Hispanic","Chronic.lower.respiratory.diseases..J40.J47.","25-64",4.07023143174729
+"533",2019,"Male","Hispanic","COVID.19..U071..Underlying.Cause.of.Death.","25-64",0
+"534",2019,"Male","Hispanic","Diabetes.mellitus..E10.E14.","25-64",18.3320691585403
+"535",2019,"Male","Hispanic","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25-64",66.664247100225
+"536",2019,"Male","Hispanic","ExternalCause","25-64",91.7604376043742
+"537",2019,"Male","Hispanic","Influenza.and.pneumonia..J09.J18.","25-64",5.06973398724161
+"538",2019,"Male","Hispanic","Malignant.neoplasms..C00.C97.","25-64",67.4171510371376
+"539",2019,"Male","Hispanic","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25-64",6.27817511035697
+"540",2019,"Male","Hispanic","nonCovid","25-64",363.776050227749
+"541",2019,"Male","Hispanic","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25-64",3.51064765789777
+"542",2019,"Male","Hispanic","Septicemia..A40.A41.","25-64",4.62200924439571
+"543",2019,"Male","Hispanic","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25-64",4.35692145760157
+"544",2019,"Male","Hispanic","Unknown","25-64",77.7115879523418
+"545",2019,"Male","Non-Hispanic Black","AllCause","25-64",771.330130204401
+"546",2019,"Male","Non-Hispanic Black","Alzheimer.disease..G30.","25-64",0.714653224688037
+"547",2019,"Male","Non-Hispanic Black","Cerebrovascular.diseases..I60.I69.","25-64",30.3243695027653
+"548",2019,"Male","Non-Hispanic Black","Chronic.lower.respiratory.diseases..J40.J47.","25-64",16.2563845246544
+"549",2019,"Male","Non-Hispanic Black","COVID.19..U071..Underlying.Cause.of.Death.","25-64",0
+"550",2019,"Male","Non-Hispanic Black","Diabetes.mellitus..E10.E14.","25-64",34.3448759520917
+"551",2019,"Male","Non-Hispanic Black","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25-64",185.5099005241
+"552",2019,"Male","Non-Hispanic Black","ExternalCause","25-64",181.699917603062
+"553",2019,"Male","Non-Hispanic Black","Influenza.and.pneumonia..J09.J18.","25-64",9.60691358309881
+"554",2019,"Male","Non-Hispanic Black","Malignant.neoplasms..C00.C97.","25-64",132.926321436133
+"555",2019,"Male","Non-Hispanic Black","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25-64",17.010386491814
+"556",2019,"Male","Non-Hispanic Black","nonCovid","25-64",771.330130204401
+"557",2019,"Male","Non-Hispanic Black","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25-64",6.99414802552317
+"558",2019,"Male","Non-Hispanic Black","Septicemia..A40.A41.","25-64",11.0240017855989
+"559",2019,"Male","Non-Hispanic Black","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25-64",9.86152207226278
+"560",2019,"Male","Non-Hispanic Black","Unknown","25-64",135.056735478609
+"561",2019,"Male","Non-Hispanic White","AllCause","25-64",510.209331756352
+"562",2019,"Male","Non-Hispanic White","Alzheimer.disease..G30.","25-64",0.814563204611934
+"563",2019,"Male","Non-Hispanic White","Cerebrovascular.diseases..I60.I69.","25-64",11.5901201942869
+"564",2019,"Male","Non-Hispanic White","Chronic.lower.respiratory.diseases..J40.J47.","25-64",16.1054260507389
+"565",2019,"Male","Non-Hispanic White","COVID.19..U071..Underlying.Cause.of.Death.","25-64",0
+"566",2019,"Male","Non-Hispanic White","Diabetes.mellitus..E10.E14.","25-64",16.8714723013451
+"567",2019,"Male","Non-Hispanic White","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25-64",103.09810068352
+"568",2019,"Male","Non-Hispanic White","ExternalCause","25-64",136.558981495215
+"569",2019,"Male","Non-Hispanic White","Influenza.and.pneumonia..J09.J18.","25-64",5.68922697579439
+"570",2019,"Male","Non-Hispanic White","Malignant.neoplasms..C00.C97.","25-64",104.899640082991
+"571",2019,"Male","Non-Hispanic White","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25-64",4.99584843885886
+"572",2019,"Male","Non-Hispanic White","nonCovid","25-64",510.209331756352
+"573",2019,"Male","Non-Hispanic White","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25-64",4.57544572882444
+"574",2019,"Male","Non-Hispanic White","Septicemia..A40.A41.","25-64",5.46280373219072
+"575",2019,"Male","Non-Hispanic White","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25-64",5.67609619068363
+"576",2019,"Male","Non-Hispanic White","Unknown","25-64",93.8716066772914
+"577",2020,"Both","All","AllCause","25-64",475.425599790679
+"578",2020,"Both","All","Alzheimer.disease..G30.","25-64",0.877902799350701
+"579",2020,"Both","All","Cerebrovascular.diseases..I60.I69.","25-64",13.1808244411508
+"580",2020,"Both","All","Chronic.lower.respiratory.diseases..J40.J47.","25-64",13.8031352862602
+"581",2020,"Both","All","COVID.19..U071..Underlying.Cause.of.Death.","25-64",39.570547496916
+"582",2020,"Both","All","Diabetes.mellitus..E10.E14.","25-64",17.3515938363339
+"583",2020,"Both","All","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25-64",81.5414368249682
+"584",2020,"Both","All","ExternalCause","25-64",101.491646342525
+"585",2020,"Both","All","Influenza.and.pneumonia..J09.J18.","25-64",6.19152500594705
+"586",2020,"Both","All","Malignant.neoplasms..C00.C97.","25-64",93.2483671592811
+"587",2020,"Both","All","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25-64",5.70549087785882
+"588",2020,"Both","All","nonCovid","25-64",435.855052293763
+"589",2020,"Both","All","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25-64",4.60533420525477
+"590",2020,"Both","All","Septicemia..A40.A41.","25-64",5.95640380318956
+"591",2020,"Both","All","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25-64",4.96327991691542
+"592",2020,"Both","All","Unknown","25-64",86.9381117947276
+"593",2020,"Both","Hispanic","AllCause","25-64",405.825794084678
+"594",2020,"Both","Hispanic","Alzheimer.disease..G30.","25-64",0.659935287749191
+"595",2020,"Both","Hispanic","Cerebrovascular.diseases..I60.I69.","25-64",11.8113531820056
+"596",2020,"Both","Hispanic","Chronic.lower.respiratory.diseases..J40.J47.","25-64",4.01623713128471
+"597",2020,"Both","Hispanic","COVID.19..U071..Underlying.Cause.of.Death.","25-64",94.7204096419482
+"598",2020,"Both","Hispanic","Diabetes.mellitus..E10.E14.","25-64",17.5037581319108
+"599",2020,"Both","Hispanic","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25-64",51.3151795342894
+"600",2020,"Both","Hispanic","ExternalCause","25-64",70.3130510714829
+"601",2020,"Both","Hispanic","Influenza.and.pneumonia..J09.J18.","25-64",5.5586506362347
+"602",2020,"Both","Hispanic","Malignant.neoplasms..C00.C97.","25-64",64.7259170400178
+"603",2020,"Both","Hispanic","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25-64",5.44444814995598
+"604",2020,"Both","Hispanic","nonCovid","25-64",311.10538444273
+"605",2020,"Both","Hispanic","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25-64",3.82309073402632
+"606",2020,"Both","Hispanic","Septicemia..A40.A41.","25-64",4.14480424177818
+"607",2020,"Both","Hispanic","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25-64",3.46842272454943
+"608",2020,"Both","Hispanic","Unknown","25-64",68.320536577445
+"609",2020,"Both","Non-Hispanic Black","AllCause","25-64",761.43523413533
+"610",2020,"Both","Non-Hispanic Black","Alzheimer.disease..G30.","25-64",0.845558844413434
+"611",2020,"Both","Non-Hispanic Black","Cerebrovascular.diseases..I60.I69.","25-64",27.9334809326584
+"612",2020,"Both","Non-Hispanic Black","Chronic.lower.respiratory.diseases..J40.J47.","25-64",16.034284584261
+"613",2020,"Both","Non-Hispanic Black","COVID.19..U071..Underlying.Cause.of.Death.","25-64",77.249443751272
+"614",2020,"Both","Non-Hispanic Black","Diabetes.mellitus..E10.E14.","25-64",35.977811931895
+"615",2020,"Both","Non-Hispanic Black","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25-64",154.136253140543
+"616",2020,"Both","Non-Hispanic Black","ExternalCause","25-64",147.382235948314
+"617",2020,"Both","Non-Hispanic Black","Influenza.and.pneumonia..J09.J18.","25-64",10.3940944626465
+"618",2020,"Both","Non-Hispanic Black","Malignant.neoplasms..C00.C97.","25-64",121.245360859287
+"619",2020,"Both","Non-Hispanic Black","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25-64",15.332600722068
+"620",2020,"Both","Non-Hispanic Black","nonCovid","25-64",684.185790384058
+"621",2020,"Both","Non-Hispanic Black","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25-64",8.19835707801822
+"622",2020,"Both","Non-Hispanic Black","Septicemia..A40.A41.","25-64",11.0466659919571
+"623",2020,"Both","Non-Hispanic Black","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25-64",8.40666467049847
+"624",2020,"Both","Non-Hispanic Black","Unknown","25-64",127.252421217498
+"625",2020,"Both","Non-Hispanic White","AllCause","25-64",460.676751769372
+"626",2020,"Both","Non-Hispanic White","Alzheimer.disease..G30.","25-64",0.981968407460137
+"627",2020,"Both","Non-Hispanic White","Cerebrovascular.diseases..I60.I69.","25-64",10.973969063582
+"628",2020,"Both","Non-Hispanic White","Chronic.lower.respiratory.diseases..J40.J47.","25-64",16.2907519022619
+"629",2020,"Both","Non-Hispanic White","COVID.19..U071..Underlying.Cause.of.Death.","25-64",20.0676454062596
+"630",2020,"Both","Non-Hispanic White","Diabetes.mellitus..E10.E14.","25-64",14.4485187155276
+"631",2020,"Both","Non-Hispanic White","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25-64",79.0937784700212
+"632",2020,"Both","Non-Hispanic White","ExternalCause","25-64",108.589098856392
+"633",2020,"Both","Non-Hispanic White","Influenza.and.pneumonia..J09.J18.","25-64",5.80997765086097
+"634",2020,"Both","Non-Hispanic White","Malignant.neoplasms..C00.C97.","25-64",97.5539671544759
+"635",2020,"Both","Non-Hispanic White","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25-64",4.2113826616068
+"636",2020,"Both","Non-Hispanic White","nonCovid","25-64",440.609106363113
+"637",2020,"Both","Non-Hispanic White","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25-64",4.36799191415511
+"638",2020,"Both","Non-Hispanic White","Septicemia..A40.A41.","25-64",5.76140360757852
+"639",2020,"Both","Non-Hispanic White","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25-64",4.80528615463586
+"640",2020,"Both","Non-Hispanic White","Unknown","25-64",87.721011804555
+"641",2020,"Female","All","AllCause","25-64",342.735352474917
+"642",2020,"Female","All","Alzheimer.disease..G30.","25-64",0.984021854261382
+"643",2020,"Female","All","Cerebrovascular.diseases..I60.I69.","25-64",10.5774048321466
+"644",2020,"Female","All","Chronic.lower.respiratory.diseases..J40.J47.","25-64",13.4084305335676
+"645",2020,"Female","All","COVID.19..U071..Underlying.Cause.of.Death.","25-64",26.9038573145365
+"646",2020,"Female","All","Diabetes.mellitus..E10.E14.","25-64",12.451892290834
+"647",2020,"Female","All","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25-64",48.220507557561
+"648",2020,"Female","All","ExternalCause","25-64",52.4903351938567
+"649",2020,"Female","All","Influenza.and.pneumonia..J09.J18.","25-64",5.1295656666991
+"650",2020,"Female","All","Malignant.neoplasms..C00.C97.","25-64",87.8523734954045
+"651",2020,"Female","All","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25-64",4.54821817498928
+"652",2020,"Female","All","nonCovid","25-64",315.831495160381
+"653",2020,"Female","All","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25-64",4.00909355533266
+"654",2020,"Female","All","Septicemia..A40.A41.","25-64",5.50929817784542
+"655",2020,"Female","All","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25-64",3.51140611429922
+"656",2020,"Female","All","Unknown","25-64",67.1389477135834
+"657",2020,"Female","Hispanic","AllCause","25-64",259.19967398917
+"658",2020,"Female","Hispanic","Alzheimer.disease..G30.","25-64",0.729901756385547
+"659",2020,"Female","Hispanic","Cerebrovascular.diseases..I60.I69.","25-64",8.39422374998641
+"660",2020,"Female","Hispanic","Chronic.lower.respiratory.diseases..J40.J47.","25-64",3.72878978291688
+"661",2020,"Female","Hispanic","COVID.19..U071..Underlying.Cause.of.Death.","25-64",54.5894499038092
+"662",2020,"Female","Hispanic","Diabetes.mellitus..E10.E14.","25-64",12.324511574835
+"663",2020,"Female","Hispanic","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25-64",26.7012080346547
+"664",2020,"Female","Hispanic","ExternalCause","25-64",28.0594963233715
+"665",2020,"Female","Hispanic","Influenza.and.pneumonia..J09.J18.","25-64",3.92164253510242
+"666",2020,"Female","Hispanic","Malignant.neoplasms..C00.C97.","25-64",63.488834391038
+"667",2020,"Female","Hispanic","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25-64",4.01692355126176
+"668",2020,"Female","Hispanic","nonCovid","25-64",204.610224085361
+"669",2020,"Female","Hispanic","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25-64",3.03080427165171
+"670",2020,"Female","Hispanic","Septicemia..A40.A41.","25-64",3.43390049766167
+"671",2020,"Female","Hispanic","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25-64",1.80056598931515
+"672",2020,"Female","Hispanic","Unknown","25-64",44.9794216271805
+"673",2020,"Female","Non-Hispanic Black","AllCause","25-64",553.818689309395
+"674",2020,"Female","Non-Hispanic Black","Alzheimer.disease..G30.","25-64",0.804216973437576
+"675",2020,"Female","Non-Hispanic Black","Cerebrovascular.diseases..I60.I69.","25-64",22.141486472034
+"676",2020,"Female","Non-Hispanic Black","Chronic.lower.respiratory.diseases..J40.J47.","25-64",14.9769732427161
+"677",2020,"Female","Non-Hispanic Black","COVID.19..U071..Underlying.Cause.of.Death.","25-64",59.382584140286
+"678",2020,"Female","Non-Hispanic Black","Diabetes.mellitus..E10.E14.","25-64",27.4604740349226
+"679",2020,"Female","Non-Hispanic Black","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25-64",102.022839009474
+"680",2020,"Female","Non-Hispanic Black","ExternalCause","25-64",63.8671801101802
+"681",2020,"Female","Non-Hispanic Black","Influenza.and.pneumonia..J09.J18.","25-64",8.31353567522368
+"682",2020,"Female","Non-Hispanic Black","Malignant.neoplasms..C00.C97.","25-64",115.359113702604
+"683",2020,"Female","Non-Hispanic Black","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25-64",12.4046285201389
+"684",2020,"Female","Non-Hispanic Black","nonCovid","25-64",494.436105169109
+"685",2020,"Female","Non-Hispanic Black","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25-64",7.40626236701483
+"686",2020,"Female","Non-Hispanic Black","Septicemia..A40.A41.","25-64",10.2955199257007
+"687",2020,"Female","Non-Hispanic Black","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25-64",5.9721710327491
+"688",2020,"Female","Non-Hispanic Black","Unknown","25-64",103.411704102914
+"689",2020,"Female","Non-Hispanic White","AllCause","25-64",338.865701362551
+"690",2020,"Female","Non-Hispanic White","Alzheimer.disease..G30.","25-64",1.1390686422969
+"691",2020,"Female","Non-Hispanic White","Cerebrovascular.diseases..I60.I69.","25-64",9.01430325745405
+"692",2020,"Female","Non-Hispanic White","Chronic.lower.respiratory.diseases..J40.J47.","25-64",16.0448950523993
+"693",2020,"Female","Non-Hispanic White","COVID.19..U071..Underlying.Cause.of.Death.","25-64",14.7245341535969
+"694",2020,"Female","Non-Hispanic White","Diabetes.mellitus..E10.E14.","25-64",10.1039857000666
+"695",2020,"Female","Non-Hispanic White","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25-64",45.7695264530378
+"696",2020,"Female","Non-Hispanic White","ExternalCause","25-64",61.244458150545
+"697",2020,"Female","Non-Hispanic White","Influenza.and.pneumonia..J09.J18.","25-64",5.05523950558239
+"698",2020,"Female","Non-Hispanic White","Malignant.neoplasms..C00.C97.","25-64",90.9820354688746
+"699",2020,"Female","Non-Hispanic White","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25-64",3.33854949777713
+"700",2020,"Female","Non-Hispanic White","nonCovid","25-64",324.141167208954
+"701",2020,"Female","Non-Hispanic White","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25-64",3.85209343320269
+"702",2020,"Female","Non-Hispanic White","Septicemia..A40.A41.","25-64",5.41250388750798
+"703",2020,"Female","Non-Hispanic White","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25-64",3.57534748941736
+"704",2020,"Female","Non-Hispanic White","Unknown","25-64",68.6091606707924
+"705",2020,"Male","All","AllCause","25-64",612.943716127658
+"706",2020,"Male","All","Alzheimer.disease..G30.","25-64",0.76515117365936
+"707",2020,"Male","All","Cerebrovascular.diseases..I60.I69.","25-64",15.9200521824303
+"708",2020,"Male","All","Chronic.lower.respiratory.diseases..J40.J47.","25-64",14.2267177122043
+"709",2020,"Male","All","COVID.19..U071..Underlying.Cause.of.Death.","25-64",52.8460138964181
+"710",2020,"Male","All","Diabetes.mellitus..E10.E14.","25-64",22.4885519634128
+"711",2020,"Male","All","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25-64",116.556126586888
+"712",2020,"Male","All","ExternalCause","25-64",151.027963872458
+"713",2020,"Male","All","Influenza.and.pneumonia..J09.J18.","25-64",7.30665868839356
+"714",2020,"Male","All","Malignant.neoplasms..C00.C97.","25-64",99.1154754446548
+"715",2020,"Male","All","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25-64",6.92146593736088
+"716",2020,"Male","All","nonCovid","25-64",560.09770223124
+"717",2020,"Male","All","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25-64",5.23335820935395
+"718",2020,"Male","All","Septicemia..A40.A41.","25-64",6.42891741299348
+"719",2020,"Male","All","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25-64",6.4589108661196
+"720",2020,"Male","All","Unknown","25-64",107.648352181312
+"721",2020,"Male","Hispanic","AllCause","25-64",552.412802396998
+"722",2020,"Male","Hispanic","Alzheimer.disease..G30.","25-64",0.588049780011044
+"723",2020,"Male","Hispanic","Cerebrovascular.diseases..I60.I69.","25-64",15.266885560099
+"724",2020,"Male","Hispanic","Chronic.lower.respiratory.diseases..J40.J47.","25-64",4.31392446652808
+"725",2020,"Male","Hispanic","COVID.19..U071..Underlying.Cause.of.Death.","25-64",135.392418965971
+"726",2020,"Male","Hispanic","Diabetes.mellitus..E10.E14.","25-64",22.7705806834526
+"727",2020,"Male","Hispanic","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25-64",76.3121037804503
+"728",2020,"Male","Hispanic","ExternalCause","25-64",111.084992418766
+"729",2020,"Male","Hispanic","Influenza.and.pneumonia..J09.J18.","25-64",7.21675979567819
+"730",2020,"Male","Hispanic","Malignant.neoplasms..C00.C97.","25-64",66.1871076279415
+"731",2020,"Male","Hispanic","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25-64",6.90329282680413
+"732",2020,"Male","Hispanic","nonCovid","25-64",417.020383431027
+"733",2020,"Male","Hispanic","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25-64",4.62305895962386
+"734",2020,"Male","Hispanic","Septicemia..A40.A41.","25-64",4.85910758850987
+"735",2020,"Male","Hispanic","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25-64",5.11224876215448
+"736",2020,"Male","Hispanic","Unknown","25-64",91.7822711810079
+"737",2020,"Male","Non-Hispanic Black","AllCause","25-64",997.035106050861
+"738",2020,"Male","Non-Hispanic Black","Alzheimer.disease..G30.","25-64",0.894448197062136
+"739",2020,"Male","Non-Hispanic Black","Cerebrovascular.diseases..I60.I69.","25-64",34.6912004877119
+"740",2020,"Male","Non-Hispanic Black","Chronic.lower.respiratory.diseases..J40.J47.","25-64",17.2534998744111
+"741",2020,"Male","Non-Hispanic Black","COVID.19..U071..Underlying.Cause.of.Death.","25-64",97.975951311059
+"742",2020,"Male","Non-Hispanic Black","Diabetes.mellitus..E10.E14.","25-64",45.8211610117185
+"743",2020,"Male","Non-Hispanic Black","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25-64",214.508643986795
+"744",2020,"Male","Non-Hispanic Black","ExternalCause","25-64",238.779319424413
+"745",2020,"Male","Non-Hispanic Black","Influenza.and.pneumonia..J09.J18.","25-64",12.8206541742648
+"746",2020,"Male","Non-Hispanic Black","Malignant.neoplasms..C00.C97.","25-64",128.449192353507
+"747",2020,"Male","Non-Hispanic Black","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25-64",18.7332998916215
+"748",2020,"Male","Non-Hispanic Black","nonCovid","25-64",899.059154739802
+"749",2020,"Male","Non-Hispanic Black","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25-64",9.12370942583055
+"750",2020,"Male","Non-Hispanic Black","Septicemia..A40.A41.","25-64",11.9365641550446
+"751",2020,"Male","Non-Hispanic Black","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25-64",11.1758068824626
+"752",2020,"Male","Non-Hispanic Black","Unknown","25-64",154.87165487496
+"753",2020,"Male","Non-Hispanic White","AllCause","25-64",584.578348126148
+"754",2020,"Male","Non-Hispanic White","Alzheimer.disease..G30.","25-64",0.818567835261024
+"755",2020,"Male","Non-Hispanic White","Cerebrovascular.diseases..I60.I69.","25-64",12.9955722816848
+"756",2020,"Male","Non-Hispanic White","Chronic.lower.respiratory.diseases..J40.J47.","25-64",16.5560600666173
+"757",2020,"Male","Non-Hispanic White","COVID.19..U071..Underlying.Cause.of.Death.","25-64",25.5854137020169
+"758",2020,"Male","Non-Hispanic White","Diabetes.mellitus..E10.E14.","25-64",18.9082897664566
+"759",2020,"Male","Non-Hispanic White","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","25-64",113.388126739449
+"760",2020,"Male","Non-Hispanic White","ExternalCause","25-64",155.748813832817
+"761",2020,"Male","Non-Hispanic White","Influenza.and.pneumonia..J09.J18.","25-64",6.58765427760544
+"762",2020,"Male","Non-Hispanic White","Malignant.neoplasms..C00.C97.","25-64",104.492590049098
+"763",2020,"Male","Non-Hispanic White","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","25-64",5.1089235966347
+"764",2020,"Male","Non-Hispanic White","nonCovid","25-64",558.992934424131
+"765",2020,"Male","Non-Hispanic White","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","25-64",4.9020015901786
+"766",2020,"Male","Non-Hispanic White","Septicemia..A40.A41.","25-64",6.12356983465874
+"767",2020,"Male","Non-Hispanic White","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","25-64",6.04962209919326
+"768",2020,"Male","Non-Hispanic White","Unknown","25-64",107.313142454476
+"769",2019,"Both","All","AllCause","65+",3889.90257885127
+"770",2019,"Both","All","Alzheimer.disease..G30.","65+",219.33827868505
+"771",2019,"Both","All","Cerebrovascular.diseases..I60.I69.","65+",236.848101324319
+"772",2019,"Both","All","Chronic.lower.respiratory.diseases..J40.J47.","65+",245.279529914949
+"773",2019,"Both","All","COVID.19..U071..Underlying.Cause.of.Death.","65+",0
+"774",2019,"Both","All","Diabetes.mellitus..E10.E14.","65+",115.012366662313
+"775",2019,"Both","All","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","65+",975.275409649767
+"776",2019,"Both","All","ExternalCause","65+",137.981410343283
+"777",2019,"Both","All","Influenza.and.pneumonia..J09.J18.","65+",74.0983322293165
+"778",2019,"Both","All","Malignant.neoplasms..C00.C97.","65+",803.341311417928
+"779",2019,"Both","All","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","65+",77.6157732954427
+"780",2019,"Both","All","nonCovid","65+",3889.90257885127
+"781",2019,"Both","All","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","65+",67.1734152412548
+"782",2019,"Both","All","Septicemia..A40.A41.","65+",53.4153057381236
+"783",2019,"Both","All","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","65+",39.1525500065005
+"784",2019,"Both","All","Unknown","65+",845.370794343018
+"785",2019,"Both","Hispanic","AllCause","65+",2891.31027983275
+"786",2019,"Both","Hispanic","Alzheimer.disease..G30.","65+",187.659682319527
+"787",2019,"Both","Hispanic","Cerebrovascular.diseases..I60.I69.","65+",210.755022898527
+"788",2019,"Both","Hispanic","Chronic.lower.respiratory.diseases..J40.J47.","65+",108.916744588941
+"789",2019,"Both","Hispanic","COVID.19..U071..Underlying.Cause.of.Death.","65+",0
+"790",2019,"Both","Hispanic","Diabetes.mellitus..E10.E14.","65+",148.833587059991
+"791",2019,"Both","Hispanic","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","65+",694.2677237905
+"792",2019,"Both","Hispanic","ExternalCause","65+",85.8647862052997
+"793",2019,"Both","Hispanic","Influenza.and.pneumonia..J09.J18.","65+",60.1877074832319
+"794",2019,"Both","Hispanic","Malignant.neoplasms..C00.C97.","65+",584.55013021239
+"795",2019,"Both","Hispanic","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","65+",72.8226443344071
+"796",2019,"Both","Hispanic","nonCovid","65+",2891.31027983275
+"797",2019,"Both","Hispanic","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","65+",58.6010599623542
+"798",2019,"Both","Hispanic","Septicemia..A40.A41.","65+",38.5637796274505
+"799",2019,"Both","Hispanic","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","65+",18.8138698927084
+"800",2019,"Both","Hispanic","Unknown","65+",621.473541457419
+"801",2019,"Both","Non-Hispanic Black","AllCause","65+",4362.19479903191
+"802",2019,"Both","Non-Hispanic Black","Alzheimer.disease..G30.","65+",203.416433428605
+"803",2019,"Both","Non-Hispanic Black","Cerebrovascular.diseases..I60.I69.","65+",316.520903104248
+"804",2019,"Both","Non-Hispanic Black","Chronic.lower.respiratory.diseases..J40.J47.","65+",171.322667282534
+"805",2019,"Both","Non-Hispanic Black","COVID.19..U071..Underlying.Cause.of.Death.","65+",0
+"806",2019,"Both","Non-Hispanic Black","Diabetes.mellitus..E10.E14.","65+",199.670214296251
+"807",2019,"Both","Non-Hispanic Black","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","65+",1125.53905125368
+"808",2019,"Both","Non-Hispanic Black","ExternalCause","65+",108.64518629854
+"809",2019,"Both","Non-Hispanic Black","Influenza.and.pneumonia..J09.J18.","65+",76.0203177965427
+"810",2019,"Both","Non-Hispanic Black","Malignant.neoplasms..C00.C97.","65+",918.276914075473
+"811",2019,"Both","Non-Hispanic Black","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","65+",144.719927032193
+"812",2019,"Both","Non-Hispanic Black","nonCovid","65+",4362.19479903191
+"813",2019,"Both","Non-Hispanic Black","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","65+",54.9311612721798
+"814",2019,"Both","Non-Hispanic Black","Septicemia..A40.A41.","65+",86.3216789555262
+"815",2019,"Both","Non-Hispanic Black","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","65+",40.4131897368377
+"816",2019,"Both","Non-Hispanic Black","Unknown","65+",916.397154499306
+"817",2019,"Both","Non-Hispanic White","AllCause","65+",4046.40972027288
+"818",2019,"Both","Non-Hispanic White","Alzheimer.disease..G30.","65+",231.476654654159
+"819",2019,"Both","Non-Hispanic White","Cerebrovascular.diseases..I60.I69.","65+",233.608274950099
+"820",2019,"Both","Non-Hispanic White","Chronic.lower.respiratory.diseases..J40.J47.","65+",279.307488900846
+"821",2019,"Both","Non-Hispanic White","COVID.19..U071..Underlying.Cause.of.Death.","65+",0
+"822",2019,"Both","Non-Hispanic White","Diabetes.mellitus..E10.E14.","65+",102.060699283513
+"823",2019,"Both","Non-Hispanic White","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","65+",1015.25844650314
+"824",2019,"Both","Non-Hispanic White","ExternalCause","65+",150.361088058004
+"825",2019,"Both","Non-Hispanic White","Influenza.and.pneumonia..J09.J18.","65+",75.808608378613
+"826",2019,"Both","Non-Hispanic White","Malignant.neoplasms..C00.C97.","65+",834.991229169396
+"827",2019,"Both","Non-Hispanic White","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","65+",71.7967107334141
+"828",2019,"Both","Non-Hispanic White","nonCovid","65+",4046.40972027288
+"829",2019,"Both","Non-Hispanic White","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","65+",71.2326481595407
+"830",2019,"Both","Non-Hispanic White","Septicemia..A40.A41.","65+",53.1280178662454
+"831",2019,"Both","Non-Hispanic White","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","65+",42.5111494608173
+"832",2019,"Both","Non-Hispanic White","Unknown","65+",884.868704155092
+"833",2019,"Female","All","AllCause","65+",3433.54148640414
+"834",2019,"Female","All","Alzheimer.disease..G30.","65+",246.903036835288
+"835",2019,"Female","All","Cerebrovascular.diseases..I60.I69.","65+",234.919668565934
+"836",2019,"Female","All","Chronic.lower.respiratory.diseases..J40.J47.","65+",226.576565280192
+"837",2019,"Female","All","COVID.19..U071..Underlying.Cause.of.Death.","65+",0
+"838",2019,"Female","All","Diabetes.mellitus..E10.E14.","65+",92.3187321080031
+"839",2019,"Female","All","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","65+",802.9935453533
+"840",2019,"Female","All","ExternalCause","65+",100.615007810246
+"841",2019,"Female","All","Influenza.and.pneumonia..J09.J18.","65+",64.7457659054638
+"842",2019,"Female","All","Malignant.neoplasms..C00.C97.","65+",664.128457057988
+"843",2019,"Female","All","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","65+",66.1683820203131
+"844",2019,"Female","All","nonCovid","65+",3433.54148640414
+"845",2019,"Female","All","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","65+",56.8479428992832
+"846",2019,"Female","All","Septicemia..A40.A41.","65+",48.1949540337781
+"847",2019,"Female","All","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","65+",38.1115569712626
+"848",2019,"Female","All","Unknown","65+",791.017871563091
+"849",2019,"Female","Hispanic","AllCause","65+",2524.61231433262
+"850",2019,"Female","Hispanic","Alzheimer.disease..G30.","65+",209.365921363733
+"851",2019,"Female","Hispanic","Cerebrovascular.diseases..I60.I69.","65+",201.186201135983
+"852",2019,"Female","Hispanic","Chronic.lower.respiratory.diseases..J40.J47.","65+",90.4490241331624
+"853",2019,"Female","Hispanic","COVID.19..U071..Underlying.Cause.of.Death.","65+",0
+"854",2019,"Female","Hispanic","Diabetes.mellitus..E10.E14.","65+",126.152839067678
+"855",2019,"Female","Hispanic","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","65+",573.942329636375
+"856",2019,"Female","Hispanic","ExternalCause","65+",60.1051458972743
+"857",2019,"Female","Hispanic","Influenza.and.pneumonia..J09.J18.","65+",50.9712822582165
+"858",2019,"Female","Hispanic","Malignant.neoplasms..C00.C97.","65+",476.240531953279
+"859",2019,"Female","Hispanic","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","65+",63.1935277987351
+"860",2019,"Female","Hispanic","nonCovid","65+",2524.61231433262
+"861",2019,"Female","Hispanic","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","65+",52.3461597590099
+"862",2019,"Female","Hispanic","Septicemia..A40.A41.","65+",34.0709858752381
+"863",2019,"Female","Hispanic","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","65+",16.7942170644399
+"864",2019,"Female","Hispanic","Unknown","65+",569.794148389492
+"865",2019,"Female","Non-Hispanic Black","AllCause","65+",3760.48928964571
+"866",2019,"Female","Non-Hispanic Black","Alzheimer.disease..G30.","65+",221.226216951932
+"867",2019,"Female","Non-Hispanic Black","Cerebrovascular.diseases..I60.I69.","65+",298.109355975894
+"868",2019,"Female","Non-Hispanic Black","Chronic.lower.respiratory.diseases..J40.J47.","65+",138.03093255815
+"869",2019,"Female","Non-Hispanic Black","COVID.19..U071..Underlying.Cause.of.Death.","65+",0
+"870",2019,"Female","Non-Hispanic Black","Diabetes.mellitus..E10.E14.","65+",172.180033385398
+"871",2019,"Female","Non-Hispanic Black","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","65+",939.005265261197
+"872",2019,"Female","Non-Hispanic Black","ExternalCause","65+",69.5109397174352
+"873",2019,"Female","Non-Hispanic Black","Influenza.and.pneumonia..J09.J18.","65+",65.5410625704394
+"874",2019,"Female","Non-Hispanic Black","Malignant.neoplasms..C00.C97.","65+",742.201885030014
+"875",2019,"Female","Non-Hispanic Black","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","65+",126.016754612507
+"876",2019,"Female","Non-Hispanic Black","nonCovid","65+",3760.48928964571
+"877",2019,"Female","Non-Hispanic Black","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","65+",48.2534425573492
+"878",2019,"Female","Non-Hispanic Black","Septicemia..A40.A41.","65+",75.070809238407
+"879",2019,"Female","Non-Hispanic Black","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","65+",36.5408816877542
+"880",2019,"Female","Non-Hispanic Black","Unknown","65+",828.801710099229
+"881",2019,"Female","Non-Hispanic White","AllCause","65+",3585.04959146608
+"882",2019,"Female","Non-Hispanic White","Alzheimer.disease..G30.","65+",261.850496383261
+"883",2019,"Female","Non-Hispanic White","Cerebrovascular.diseases..I60.I69.","65+",233.967840951801
+"884",2019,"Female","Non-Hispanic White","Chronic.lower.respiratory.diseases..J40.J47.","65+",264.078086838895
+"885",2019,"Female","Non-Hispanic White","COVID.19..U071..Underlying.Cause.of.Death.","65+",0
+"886",2019,"Female","Non-Hispanic White","Diabetes.mellitus..E10.E14.","65+",78.3730504233695
+"887",2019,"Female","Non-Hispanic White","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","65+",833.174396465252
+"888",2019,"Female","Non-Hispanic White","ExternalCause","65+",111.384230699967
+"889",2019,"Female","Non-Hispanic White","Influenza.and.pneumonia..J09.J18.","65+",66.5881338252632
+"890",2019,"Female","Non-Hispanic White","Malignant.neoplasms..C00.C97.","65+",692.942819489389
+"891",2019,"Female","Non-Hispanic White","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","65+",60.1253629194715
+"892",2019,"Female","Non-Hispanic White","nonCovid","65+",3585.04959146608
+"893",2019,"Female","Non-Hispanic White","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","65+",59.9679332838415
+"894",2019,"Female","Non-Hispanic White","Septicemia..A40.A41.","65+",48.1396395020132
+"895",2019,"Female","Non-Hispanic White","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","65+",41.9134135373489
+"896",2019,"Female","Non-Hispanic White","Unknown","65+",832.544187146208
+"897",2019,"Male","All","AllCause","65+",4478.86184679362
+"898",2019,"Male","All","Alzheimer.disease..G30.","65+",174.655898001451
+"899",2019,"Male","All","Cerebrovascular.diseases..I60.I69.","65+",234.928132323561
+"900",2019,"Male","All","Chronic.lower.respiratory.diseases..J40.J47.","65+",271.129737147072
+"901",2019,"Male","All","COVID.19..U071..Underlying.Cause.of.Death.","65+",0
+"902",2019,"Male","All","Diabetes.mellitus..E10.E14.","65+",144.588095968298
+"903",2019,"Male","All","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","65+",1202.40537002455
+"904",2019,"Male","All","ExternalCause","65+",186.614795987748
+"905",2019,"Male","All","Influenza.and.pneumonia..J09.J18.","65+",87.1417881440209
+"906",2019,"Male","All","Malignant.neoplasms..C00.C97.","65+",992.282587109492
+"907",2019,"Male","All","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","65+",94.0324630413211
+"908",2019,"Male","All","nonCovid","65+",4478.86184679362
+"909",2019,"Male","All","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","65+",81.3807551329552
+"910",2019,"Male","All","Septicemia..A40.A41.","65+",60.7175906256829
+"911",2019,"Male","All","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","65+",39.7101750826725
+"912",2019,"Male","All","Unknown","65+",909.274458204797
+"913",2019,"Male","Hispanic","AllCause","65+",3385.57285595069
+"914",2019,"Male","Hispanic","Alzheimer.disease..G30.","65+",151.590644187327
+"915",2019,"Male","Hispanic","Cerebrovascular.diseases..I60.I69.","65+",221.546367486939
+"916",2019,"Male","Hispanic","Chronic.lower.respiratory.diseases..J40.J47.","65+",135.978707720516
+"917",2019,"Male","Hispanic","COVID.19..U071..Underlying.Cause.of.Death.","65+",0
+"918",2019,"Male","Hispanic","Diabetes.mellitus..E10.E14.","65+",178.858008770391
+"919",2019,"Male","Hispanic","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","65+",857.864782216414
+"920",2019,"Male","Hispanic","ExternalCause","65+",120.614440829379
+"921",2019,"Male","Hispanic","Influenza.and.pneumonia..J09.J18.","65+",72.9159242131119
+"922",2019,"Male","Hispanic","Malignant.neoplasms..C00.C97.","65+",736.416027251967
+"923",2019,"Male","Hispanic","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","65+",86.1842650609548
+"924",2019,"Male","Hispanic","nonCovid","65+",3385.57285595069
+"925",2019,"Male","Hispanic","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","65+",67.3480301793051
+"926",2019,"Male","Hispanic","Septicemia..A40.A41.","65+",45.1128800426892
+"927",2019,"Male","Hispanic","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","65+",21.3231813474453
+"928",2019,"Male","Hispanic","Unknown","65+",689.819596644249
+"929",2019,"Male","Non-Hispanic Black","AllCause","65+",5274.12875618782
+"930",2019,"Male","Non-Hispanic Black","Alzheimer.disease..G30.","65+",166.441219724897
+"931",2019,"Male","Non-Hispanic Black","Cerebrovascular.diseases..I60.I69.","65+",337.290257211436
+"932",2019,"Male","Non-Hispanic Black","Chronic.lower.respiratory.diseases..J40.J47.","65+",226.626119928684
+"933",2019,"Male","Non-Hispanic Black","COVID.19..U071..Underlying.Cause.of.Death.","65+",0
+"934",2019,"Male","Non-Hispanic Black","Diabetes.mellitus..E10.E14.","65+",240.809011499045
+"935",2019,"Male","Non-Hispanic Black","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","65+",1406.87942216374
+"936",2019,"Male","Non-Hispanic Black","ExternalCause","65+",166.727923833075
+"937",2019,"Male","Non-Hispanic Black","Influenza.and.pneumonia..J09.J18.","65+",93.3818282469768
+"938",2019,"Male","Non-Hispanic Black","Malignant.neoplasms..C00.C97.","65+",1201.29416638232
+"939",2019,"Male","Non-Hispanic Black","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","65+",175.162418470698
+"940",2019,"Male","Non-Hispanic Black","nonCovid","65+",5274.12875618782
+"941",2019,"Male","Non-Hispanic Black","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","65+",66.0323937290275
+"942",2019,"Male","Non-Hispanic Black","Septicemia..A40.A41.","65+",104.23602474405
+"943",2019,"Male","Non-Hispanic Black","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","65+",45.3752375797856
+"944",2019,"Male","Non-Hispanic Black","Unknown","65+",1043.87273267409
+"945",2019,"Male","Non-Hispanic White","AllCause","65+",4627.65543817432
+"946",2019,"Male","Non-Hispanic White","Alzheimer.disease..G30.","65+",183.605862457303
+"947",2019,"Male","Non-Hispanic White","Cerebrovascular.diseases..I60.I69.","65+",228.602024520505
+"948",2019,"Male","Non-Hispanic White","Chronic.lower.respiratory.diseases..J40.J47.","65+",299.975327016569
+"949",2019,"Male","Non-Hispanic White","COVID.19..U071..Underlying.Cause.of.Death.","65+",0
+"950",2019,"Male","Non-Hispanic White","Diabetes.mellitus..E10.E14.","65+",132.399302599177
+"951",2019,"Male","Non-Hispanic White","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","65+",1250.26954514297
+"952",2019,"Male","Non-Hispanic White","ExternalCause","65+",199.849100395093
+"953",2019,"Male","Non-Hispanic White","Influenza.and.pneumonia..J09.J18.","65+",88.4305916173575
+"954",2019,"Male","Non-Hispanic White","Malignant.neoplasms..C00.C97.","65+",1023.73106726591
+"955",2019,"Male","Non-Hispanic White","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","65+",88.4521553305801
+"956",2019,"Male","Non-Hispanic White","nonCovid","65+",4627.65543817432
+"957",2019,"Male","Non-Hispanic White","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","65+",86.3477454956793
+"958",2019,"Male","Non-Hispanic White","Septicemia..A40.A41.","65+",60.0782832123622
+"959",2019,"Male","Non-Hispanic White","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","65+",42.3952599269312
+"960",2019,"Male","Non-Hispanic White","Unknown","65+",943.519173193886
+"961",2020,"Both","All","AllCause","65+",4513.67707842157
+"962",2020,"Both","All","Alzheimer.disease..G30.","65+",238.55823723465
+"963",2020,"Both","All","Cerebrovascular.diseases..I60.I69.","65+",247.183919543459
+"964",2020,"Both","All","Chronic.lower.respiratory.diseases..J40.J47.","65+",231.384242346279
+"965",2020,"Both","All","COVID.19..U071..Underlying.Cause.of.Death.","65+",508.717625506507
+"966",2020,"Both","All","Diabetes.mellitus..E10.E14.","65+",129.834395343892
+"967",2020,"Both","All","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","65+",1001.52058867362
+"968",2020,"Both","All","ExternalCause","65+",139.46799428991
+"969",2020,"Both","All","Influenza.and.pneumonia..J09.J18.","65+",76.5603416424172
+"970",2020,"Both","All","Malignant.neoplasms..C00.C97.","65+",792.642891272655
+"971",2020,"Both","All","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","65+",76.7382092842777
+"972",2020,"Both","All","nonCovid","65+",4004.95945291507
+"973",2020,"Both","All","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","65+",66.2494083430524
+"974",2020,"Both","All","Septicemia..A40.A41.","65+",53.5166004858302
+"975",2020,"Both","All","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","65+",40.0633388469308
+"976",2020,"Both","All","Unknown","65+",911.239285608091
+"977",2020,"Both","Hispanic","AllCause","65+",3960.81691710512
+"978",2020,"Both","Hispanic","Alzheimer.disease..G30.","65+",213.808546766632
+"979",2020,"Both","Hispanic","Cerebrovascular.diseases..I60.I69.","65+",222.79753256686
+"980",2020,"Both","Hispanic","Chronic.lower.respiratory.diseases..J40.J47.","65+",106.3029938485
+"981",2020,"Both","Hispanic","COVID.19..U071..Underlying.Cause.of.Death.","65+",872.727829591676
+"982",2020,"Both","Hispanic","Diabetes.mellitus..E10.E14.","65+",177.586231138393
+"983",2020,"Both","Hispanic","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","65+",760.940548327514
+"984",2020,"Both","Hispanic","ExternalCause","65+",88.1513089892506
+"985",2020,"Both","Hispanic","Influenza.and.pneumonia..J09.J18.","65+",72.3966671764813
+"986",2020,"Both","Hispanic","Malignant.neoplasms..C00.C97.","65+",571.63024833021
+"987",2020,"Both","Hispanic","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","65+",70.6369485396849
+"988",2020,"Both","Hispanic","nonCovid","65+",3088.08908751344
+"989",2020,"Both","Hispanic","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","65+",58.4666424757853
+"990",2020,"Both","Hispanic","Septicemia..A40.A41.","65+",40.4221346269548
+"991",2020,"Both","Hispanic","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","65+",21.1715766315261
+"992",2020,"Both","Hispanic","Unknown","65+",683.777708095652
+"993",2020,"Both","Non-Hispanic Black","AllCause","65+",5539.0761382054
+"994",2020,"Both","Non-Hispanic Black","Alzheimer.disease..G30.","65+",232.037752064031
+"995",2020,"Both","Non-Hispanic Black","Cerebrovascular.diseases..I60.I69.","65+",340.472260393813
+"996",2020,"Both","Non-Hispanic Black","Chronic.lower.respiratory.diseases..J40.J47.","65+",178.12494384617
+"997",2020,"Both","Non-Hispanic Black","COVID.19..U071..Underlying.Cause.of.Death.","65+",817.996685978561
+"998",2020,"Both","Non-Hispanic Black","Diabetes.mellitus..E10.E14.","65+",236.861737331149
+"999",2020,"Both","Non-Hispanic Black","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","65+",1237.83715042872
+"1000",2020,"Both","Non-Hispanic Black","ExternalCause","65+",118.551529072811
+"1001",2020,"Both","Non-Hispanic Black","Influenza.and.pneumonia..J09.J18.","65+",93.5076702468877
+"1002",2020,"Both","Non-Hispanic Black","Malignant.neoplasms..C00.C97.","65+",900.187726022399
+"1003",2020,"Both","Non-Hispanic Black","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","65+",148.743560238439
+"1004",2020,"Both","Non-Hispanic Black","nonCovid","65+",4721.07945222684
+"1005",2020,"Both","Non-Hispanic Black","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","65+",63.1953910412278
+"1006",2020,"Both","Non-Hispanic Black","Septicemia..A40.A41.","65+",89.8952929471189
+"1007",2020,"Both","Non-Hispanic Black","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","65+",47.5052460458803
+"1008",2020,"Both","Non-Hispanic Black","Unknown","65+",1034.15919254819
+"1009",2020,"Both","Non-Hispanic White","AllCause","65+",4566.01844669652
+"1010",2020,"Both","Non-Hispanic White","Alzheimer.disease..G30.","65+",249.947593401174
+"1011",2020,"Both","Non-Hispanic White","Cerebrovascular.diseases..I60.I69.","65+",242.222612625246
+"1012",2020,"Both","Non-Hispanic White","Chronic.lower.respiratory.diseases..J40.J47.","65+",262.191204527447
+"1013",2020,"Both","Non-Hispanic White","COVID.19..U071..Underlying.Cause.of.Death.","65+",434.88725677867
+"1014",2020,"Both","Non-Hispanic White","Diabetes.mellitus..E10.E14.","65+",112.084012143347
+"1015",2020,"Both","Non-Hispanic White","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","65+",1027.53947360061
+"1016",2020,"Both","Non-Hispanic White","ExternalCause","65+",151.319206004837
+"1017",2020,"Both","Non-Hispanic White","Influenza.and.pneumonia..J09.J18.","65+",75.3682204203214
+"1018",2020,"Both","Non-Hispanic White","Malignant.neoplasms..C00.C97.","65+",826.342228318814
+"1019",2020,"Both","Non-Hispanic White","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","65+",70.5028524410867
+"1020",2020,"Both","Non-Hispanic White","nonCovid","65+",4131.13118991785
+"1021",2020,"Both","Non-Hispanic White","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","65+",69.5038871846723
+"1022",2020,"Both","Non-Hispanic White","Septicemia..A40.A41.","65+",52.4913006969072
+"1023",2020,"Both","Non-Hispanic White","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","65+",42.38734835469
+"1024",2020,"Both","Non-Hispanic White","Unknown","65+",949.231250198694
+"1025",2020,"Female","All","AllCause","65+",3955.84993769589
+"1026",2020,"Female","All","Alzheimer.disease..G30.","65+",271.903527466756
+"1027",2020,"Female","All","Cerebrovascular.diseases..I60.I69.","65+",244.73897378846
+"1028",2020,"Female","All","Chronic.lower.respiratory.diseases..J40.J47.","65+",210.959528379617
+"1029",2020,"Female","All","COVID.19..U071..Underlying.Cause.of.Death.","65+",412.044328429252
+"1030",2020,"Female","All","Diabetes.mellitus..E10.E14.","65+",105.42503281389
+"1031",2020,"Female","All","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","65+",820.776626193149
+"1032",2020,"Female","All","ExternalCause","65+",101.019709552857
+"1033",2020,"Female","All","Influenza.and.pneumonia..J09.J18.","65+",64.6216195516299
+"1034",2020,"Female","All","Malignant.neoplasms..C00.C97.","65+",655.415335968389
+"1035",2020,"Female","All","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","65+",65.423823150412
+"1036",2020,"Female","All","nonCovid","65+",3543.80560926664
+"1037",2020,"Female","All","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","65+",55.7019005304458
+"1038",2020,"Female","All","Septicemia..A40.A41.","65+",48.6528585435496
+"1039",2020,"Female","All","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","65+",39.1175798719052
+"1040",2020,"Female","All","Unknown","65+",860.049093455578
+"1041",2020,"Female","Hispanic","AllCause","65+",3341.26710624936
+"1042",2020,"Female","Hispanic","Alzheimer.disease..G30.","65+",240.697531158286
+"1043",2020,"Female","Hispanic","Cerebrovascular.diseases..I60.I69.","65+",212.950038391483
+"1044",2020,"Female","Hispanic","Chronic.lower.respiratory.diseases..J40.J47.","65+",88.4612265645558
+"1045",2020,"Female","Hispanic","COVID.19..U071..Underlying.Cause.of.Death.","65+",638.747407742099
+"1046",2020,"Female","Hispanic","Diabetes.mellitus..E10.E14.","65+",150.789286582153
+"1047",2020,"Female","Hispanic","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","65+",623.516578067424
+"1048",2020,"Female","Hispanic","ExternalCause","65+",59.3846799640476
+"1049",2020,"Female","Hispanic","Influenza.and.pneumonia..J09.J18.","65+",60.7698539534584
+"1050",2020,"Female","Hispanic","Malignant.neoplasms..C00.C97.","65+",471.531767523807
+"1051",2020,"Female","Hispanic","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","65+",60.7088773559508
+"1052",2020,"Female","Hispanic","nonCovid","65+",2702.51969850726
+"1053",2020,"Female","Hispanic","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","65+",49.9260120201138
+"1054",2020,"Female","Hispanic","Septicemia..A40.A41.","65+",37.0296154225396
+"1055",2020,"Female","Hispanic","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","65+",19.3306958515454
+"1056",2020,"Female","Hispanic","Unknown","65+",627.4235356519
+"1057",2020,"Female","Non-Hispanic Black","AllCause","65+",4735.47745700434
+"1058",2020,"Female","Non-Hispanic Black","Alzheimer.disease..G30.","65+",254.417957194736
+"1059",2020,"Female","Non-Hispanic Black","Cerebrovascular.diseases..I60.I69.","65+",315.574943608987
+"1060",2020,"Female","Non-Hispanic Black","Chronic.lower.respiratory.diseases..J40.J47.","65+",144.647402073863
+"1061",2020,"Female","Non-Hispanic Black","COVID.19..U071..Underlying.Cause.of.Death.","65+",652.794549708766
+"1062",2020,"Female","Non-Hispanic Black","Diabetes.mellitus..E10.E14.","65+",205.431691235369
+"1063",2020,"Female","Non-Hispanic Black","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","65+",1033.86205450965
+"1064",2020,"Female","Non-Hispanic Black","ExternalCause","65+",73.0021855522546
+"1065",2020,"Female","Non-Hispanic Black","Influenza.and.pneumonia..J09.J18.","65+",75.5874563725528
+"1066",2020,"Female","Non-Hispanic Black","Malignant.neoplasms..C00.C97.","65+",725.212566246731
+"1067",2020,"Female","Non-Hispanic Black","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","65+",130.914687222343
+"1068",2020,"Female","Non-Hispanic Black","nonCovid","65+",4082.68290729557
+"1069",2020,"Female","Non-Hispanic Black","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","65+",55.0884405429811
+"1070",2020,"Female","Non-Hispanic Black","Septicemia..A40.A41.","65+",80.4673610688681
+"1071",2020,"Female","Non-Hispanic Black","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","65+",42.6836798389196
+"1072",2020,"Female","Non-Hispanic Black","Unknown","65+",945.792481828311
+"1073",2020,"Female","Non-Hispanic White","AllCause","65+",4029.09555157828
+"1074",2020,"Female","Non-Hispanic White","Alzheimer.disease..G30.","65+",286.43991521215
+"1075",2020,"Female","Non-Hispanic White","Cerebrovascular.diseases..I60.I69.","65+",242.762504082862
+"1076",2020,"Female","Non-Hispanic White","Chronic.lower.respiratory.diseases..J40.J47.","65+",244.543910279973
+"1077",2020,"Female","Non-Hispanic White","COVID.19..U071..Underlying.Cause.of.Death.","65+",359.286483685873
+"1078",2020,"Female","Non-Hispanic White","Diabetes.mellitus..E10.E14.","65+",87.2404071512592
+"1079",2020,"Female","Non-Hispanic White","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","65+",838.663681528055
+"1080",2020,"Female","Non-Hispanic White","ExternalCause","65+",111.927356220487
+"1081",2020,"Female","Non-Hispanic White","Influenza.and.pneumonia..J09.J18.","65+",64.3788178681795
+"1082",2020,"Female","Non-Hispanic White","Malignant.neoplasms..C00.C97.","65+",685.492524008132
+"1083",2020,"Female","Non-Hispanic White","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","65+",58.8678153553915
+"1084",2020,"Female","Non-Hispanic White","nonCovid","65+",3669.80906789241
+"1085",2020,"Female","Non-Hispanic White","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","65+",58.348468551239
+"1086",2020,"Female","Non-Hispanic White","Septicemia..A40.A41.","65+",47.7362632541541
+"1087",2020,"Female","Non-Hispanic White","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","65+",42.1258202210036
+"1088",2020,"Female","Non-Hispanic White","Unknown","65+",901.281584159522
+"1089",2020,"Male","All","AllCause","65+",5228.76087615716
+"1090",2020,"Male","All","Alzheimer.disease..G30.","65+",185.325525882944
+"1091",2020,"Male","All","Cerebrovascular.diseases..I60.I69.","65+",246.020927016113
+"1092",2020,"Male","All","Chronic.lower.respiratory.diseases..J40.J47.","65+",259.034438708069
+"1093",2020,"Male","All","COVID.19..U071..Underlying.Cause.of.Death.","65+",636.213720183793
+"1094",2020,"Male","All","Diabetes.mellitus..E10.E14.","65+",161.485670136803
+"1095",2020,"Male","All","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","65+",1238.09779685914
+"1096",2020,"Male","All","ExternalCause","65+",189.268539913594
+"1097",2020,"Male","All","Influenza.and.pneumonia..J09.J18.","65+",93.4077992740683
+"1098",2020,"Male","All","Malignant.neoplasms..C00.C97.","65+",978.549808289537
+"1099",2020,"Male","All","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","65+",92.9099118669847
+"1100",2020,"Male","All","nonCovid","65+",4592.54715597337
+"1101",2020,"Male","All","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","65+",80.4518990247068
+"1102",2020,"Male","All","Septicemia..A40.A41.","65+",60.1735314486912
+"1103",2020,"Male","All","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","65+",40.3053212396929
+"1104",2020,"Male","All","Unknown","65+",967.515986313024
+"1105",2020,"Male","Hispanic","AllCause","65+",4787.30664352767
+"1106",2020,"Male","Hispanic","Alzheimer.disease..G30.","65+",169.803326540427
+"1107",2020,"Male","Hispanic","Cerebrovascular.diseases..I60.I69.","65+",233.306435770176
+"1108",2020,"Male","Hispanic","Chronic.lower.respiratory.diseases..J40.J47.","65+",132.243483715206
+"1109",2020,"Male","Hispanic","COVID.19..U071..Underlying.Cause.of.Death.","65+",1189.0754211888
+"1110",2020,"Male","Hispanic","Diabetes.mellitus..E10.E14.","65+",212.763805152578
+"1111",2020,"Male","Hispanic","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","65+",945.22987303081
+"1112",2020,"Male","Hispanic","ExternalCause","65+",126.145875665867
+"1113",2020,"Male","Hispanic","Influenza.and.pneumonia..J09.J18.","65+",89.1684956896528
+"1114",2020,"Male","Hispanic","Malignant.neoplasms..C00.C97.","65+",710.830989854894
+"1115",2020,"Male","Hispanic","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","65+",84.7335543406757
+"1116",2020,"Male","Hispanic","nonCovid","65+",3598.23122233887
+"1117",2020,"Male","Hispanic","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","65+",70.4119655607575
+"1118",2020,"Male","Hispanic","Septicemia..A40.A41.","65+",45.2347276525717
+"1119",2020,"Male","Hispanic","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","65+",23.4131445787797
+"1120",2020,"Male","Hispanic","Unknown","65+",754.945544786474
+"1121",2020,"Male","Non-Hispanic Black","AllCause","65+",6754.42440386958
+"1122",2020,"Male","Non-Hispanic Black","Alzheimer.disease..G30.","65+",185.760997996293
+"1123",2020,"Male","Non-Hispanic Black","Cerebrovascular.diseases..I60.I69.","65+",371.276593263031
+"1124",2020,"Male","Non-Hispanic Black","Chronic.lower.respiratory.diseases..J40.J47.","65+",231.801589056534
+"1125",2020,"Male","Non-Hispanic Black","COVID.19..U071..Underlying.Cause.of.Death.","65+",1079.66677743034
+"1126",2020,"Male","Non-Hispanic Black","Diabetes.mellitus..E10.E14.","65+",284.790531957896
+"1127",2020,"Male","Non-Hispanic Black","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","65+",1542.70873920151
+"1128",2020,"Male","Non-Hispanic Black","ExternalCause","65+",185.831206013204
+"1129",2020,"Male","Non-Hispanic Black","Influenza.and.pneumonia..J09.J18.","65+",122.378574378855
+"1130",2020,"Male","Non-Hispanic Black","Malignant.neoplasms..C00.C97.","65+",1182.50644697754
+"1131",2020,"Male","Non-Hispanic Black","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","65+",177.258298257205
+"1132",2020,"Male","Non-Hispanic Black","nonCovid","65+",5674.75762643924
+"1133",2020,"Male","Non-Hispanic Black","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","65+",75.7128045444025
+"1134",2020,"Male","Non-Hispanic Black","Septicemia..A40.A41.","65+",104.86821104324
+"1135",2020,"Male","Non-Hispanic Black","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","65+",53.6456013961963
+"1136",2020,"Male","Non-Hispanic Black","Unknown","65+",1156.21803235333
+"1137",2020,"Male","Non-Hispanic White","AllCause","65+",5238.22024606085
+"1138",2020,"Male","Non-Hispanic White","Alzheimer.disease..G30.","65+",193.303147528545
+"1139",2020,"Male","Non-Hispanic White","Cerebrovascular.diseases..I60.I69.","65+",237.145732870822
+"1140",2020,"Male","Non-Hispanic White","Chronic.lower.respiratory.diseases..J40.J47.","65+",285.519674475281
+"1141",2020,"Male","Non-Hispanic White","COVID.19..U071..Underlying.Cause.of.Death.","65+",533.241497454906
+"1142",2020,"Male","Non-Hispanic White","Diabetes.mellitus..E10.E14.","65+",143.804424550862
+"1143",2020,"Male","Non-Hispanic White","Diseases.of.heart..I00.I09.I11.I13.I20.I51.","65+",1269.71801486873
+"1144",2020,"Male","Non-Hispanic White","ExternalCause","65+",201.237913185822
+"1145",2020,"Male","Non-Hispanic White","Influenza.and.pneumonia..J09.J18.","65+",90.6829985521312
+"1146",2020,"Male","Non-Hispanic White","Malignant.neoplasms..C00.C97.","65+",1013.01011163235
+"1147",2020,"Male","Non-Hispanic White","Nephritis..nephrotic.syndrome.and.nephrosis..N00.N07.N17.N19.N25.N27.","65+",86.9901873890455
+"1148",2020,"Male","Non-Hispanic White","nonCovid","65+",4704.97874860594
+"1149",2020,"Male","Non-Hispanic White","Other.diseases.of.respiratory.system..J00.J06.J30.J39.J67.J70.J98.","65+",84.1581763926538
+"1150",2020,"Male","Non-Hispanic White","Septicemia..A40.A41.","65+",58.9053248022948
+"1151",2020,"Male","Non-Hispanic White","Symptoms..signs.and.abnormal.clinical.and.laboratory.findings..not.elsewhere.classified..R00.R99.","65+",41.6278319029023
+"1152",2020,"Male","Non-Hispanic White","Unknown","65+",998.875210454505
